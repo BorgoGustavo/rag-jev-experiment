@@ -1,0 +1,60 @@
+# Preços em US$ por 1M tokens.
+# TODO: conferir. Valores consultados em 2026-10-03:
+#   Anthropic: tabela de preços da Claude Developer Platform
+#   OpenAI: developers.openai.com/api/docs/pricing
+#   TypeSafe: docs.typesafe.ai/models (Jev cobra só entrada; saída é grátis)
+models:
+  embedding:
+    provider: openai
+    id: text-embedding-3-small
+    input_per_m: 0.02
+    output_per_m: 0
+  navegador_grande:
+    provider: anthropic
+    id: claude-opus-5-5
+    input_per_m: 4.00
+    output_per_m: 20.00
+    effort: low          # navegação é decisão curta; thinking não desliga no Opus 5.5
+  navegador_pequeno:
+    provider: anthropic
+    id: claude-haiku-4-5
+    input_per_m: 1.00
+    output_per_m: 5.00
+  gerador_resposta:
+    provider: anthropic
+    id: claude-sonnet-5-5
+    input_per_m: 2.00
+    output_per_m: 10.00
+    effort: medium
+  juiz:                  # sem uso enquanto a revisão da resposta final for manual
+    provider: anthropic
+    id: claude-opus-5-5
+    input_per_m: 4.00
+    output_per_m: 20.00
+    effort: medium
+  pageindex_index:       # usado pelo PageIndex (resumos de nó + expand), via LiteLLM; custo único stage=tree
+    provider: openai
+    id: gpt-5.6-luna
+    input_per_m: 0.20
+    output_per_m: 1.20
+  jev:
+    provider: typesafe
+    id: jev-latest        # jev-1.13.0 em 2026-10-03
+    input_per_m: 0.042
+    output_per_m: 0
+
+vector:
+  chunk_size: 1000
+  chunk_overlap: 200
+  top_k: 5
+  collection: lc214
+
+navigate:
+  max_steps: 12                   # árvore tem profundidade 7 (6 decisões + folha); sobra para um "voltar"
+  max_tokens: 1024                # 256 truncava (thinking do Opus conta como saída; Haiku explica após o JSON)
+  jev_confidence_threshold: null  # null = Jev sempre decide (fumaça); número = abaixo disso escala para navegador_grande
+  jev_prob_minima_extra: 0.20     # D: além da vencedora, desce por até 2 filhos com probabilidade >= isto
+  jev_max_extra: 2
+
+answer:
+  max_tokens: 1024

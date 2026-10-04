@@ -1,0 +1,398 @@
+[
+  {
+    "id": "q01",
+    "tipo": "direta",
+    "pergunta": "Qual é o período de apuração do IBS e da CBS?",
+    "artigos_gabarito": ["art_43"],
+    "trechos_evidencia": ["O período de apuração do IBS e da CBS será mensal."],
+    "resposta_esperada": "Mensal.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q02",
+    "tipo": "direta",
+    "pergunta": "Em quanto tempo se extingue o direito de utilizar créditos de IBS e CBS já apropriados, e a partir de quando se conta esse prazo?",
+    "artigos_gabarito": ["art_54"],
+    "trechos_evidencia": ["extinguir-se-á após o prazo de 5 (cinco) anos, contado do primeiro dia do período subsequente ao de apuração em que tiver ocorrido a apropriação do crédito"],
+    "resposta_esperada": "5 anos, contados do primeiro dia do período de apuração subsequente ao da apropriação do crédito.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q03",
+    "tipo": "direta",
+    "pergunta": "Qual é a multa de mora por atraso no pagamento do IBS e da CBS e qual o seu limite máximo?",
+    "artigos_gabarito": ["art_29"],
+    "trechos_evidencia": ["multa de mora, calculada à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso"],
+    "resposta_esperada": "0,33% por dia de atraso, limitada a 20%.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q04",
+    "tipo": "direta",
+    "pergunta": "Em que condições uma remessa internacional é isenta de IBS e CBS na importação?",
+    "artigos_gabarito": ["art_94"],
+    "trechos_evidencia": ["sejam isentas do Imposto sobre a Importação"],
+    "resposta_esperada": "Quando for isenta do Imposto de Importação, remetente e destinatário forem pessoas físicas e não houver intermediação de plataforma digital.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q05",
+    "tipo": "direta",
+    "pergunta": "Quais são os percentuais de devolução (cashback) da CBS e do IBS para famílias de baixa renda na compra de botijão de gás de até 13 kg?",
+    "artigos_gabarito": ["art_118"],
+    "trechos_evidencia": ["100% (cem por cento) para a CBS e 20% (vinte por cento) para o IBS na aquisição de botijão de até 13 kg (treze quilogramas) de gás liquefeito de petróleo"],
+    "resposta_esperada": "100% da CBS e 20% do IBS.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q06",
+    "tipo": "direta",
+    "pergunta": "Qual é a redução de alíquota do IBS e da CBS para serviços prestados por advogados e contabilistas?",
+    "artigos_gabarito": ["art_127"],
+    "trechos_evidencia": ["Ficam reduzidas em 30% (trinta por cento) as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços pelos seguintes profissionais"],
+    "resposta_esperada": "Redução de 30% das alíquotas.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q07",
+    "tipo": "direta",
+    "pergunta": "O transporte público coletivo urbano de passageiros por ônibus e metrô é tributado pelo IBS e pela CBS?",
+    "artigos_gabarito": ["art_157"],
+    "trechos_evidencia": ["Fica isento do IBS e da CBS o fornecimento de serviços de transporte público coletivo de passageiros rodoviário e metroviário de caráter urbano, semiurbano e metropolitano"],
+    "resposta_esperada": "Não, é isento (quando sob autorização, permissão ou concessão pública).",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q08",
+    "tipo": "direta",
+    "pergunta": "No regime específico de bens imóveis, qual é a redução de alíquota geral e qual a redução para locação, cessão onerosa e arrendamento?",
+    "artigos_gabarito": ["art_261"],
+    "trechos_evidencia": ["As alíquotas do IBS e da CBS relativas às operações de locação, cessão onerosa e arrendamento de bens imóveis ficam reduzidas em 70% (setenta por cento)"],
+    "resposta_esperada": "50% em geral e 70% para locação, cessão onerosa e arrendamento.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q09",
+    "tipo": "direta",
+    "pergunta": "Qual é a redução das alíquotas do IBS e da CBS no regime específico de bares e restaurantes?",
+    "artigos_gabarito": ["art_275"],
+    "trechos_evidencia": ["ficam reduzidas em 40% (quarenta por cento)"],
+    "resposta_esperada": "40%.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q10",
+    "tipo": "direta",
+    "pergunta": "Qual é a alíquota da CBS sobre os serviços de ensino superior prestados por instituição privada vinculada ao Prouni?",
+    "artigos_gabarito": ["art_308"],
+    "trechos_evidencia": ["Fica reduzida a zero a alíquota da CBS incidente sobre o fornecimento de serviços de educação de ensino superior por instituição privada de ensino"],
+    "resposta_esperada": "Zero, durante o período de adesão e vinculação ao Prouni, na proporção da ocupação das bolsas.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q11",
+    "tipo": "direta",
+    "pergunta": "Qual é o valor da Unidade Padrão Fiscal (UPF) dos tributos sobre bens e serviços e como ela é atualizada?",
+    "artigos_gabarito": ["art_341c"],
+    "trechos_evidencia": ["no valor de R$ 200,00 (duzentos reais), a ser atualizada anualmente pela variação do IPCA"],
+    "resposta_esperada": "R$ 200,00, atualizada anualmente pelo IPCA.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q12",
+    "tipo": "direta",
+    "pergunta": "Qual é a alíquota da CBS para os fatos geradores ocorridos em 2026?",
+    "artigos_gabarito": ["art_346"],
+    "trechos_evidencia": ["a CBS será cobrada mediante aplicação da alíquota de 0,9% (nove décimos por cento)"],
+    "resposta_esperada": "0,9%.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q13",
+    "tipo": "direta",
+    "pergunta": "O Imposto Seletivo gera crédito para operações posteriores ou aproveita crédito de operações anteriores?",
+    "artigos_gabarito": ["art_410"],
+    "trechos_evidencia": ["sendo vedado qualquer tipo de aproveitamento de crédito do imposto com operações anteriores ou geração de créditos para operações posteriores"],
+    "resposta_esperada": "Não. Incide uma única vez e é vedado qualquer aproveitamento ou geração de crédito.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q14",
+    "tipo": "direta",
+    "pergunta": "Quais Áreas de Livre Comércio são contempladas com regime favorecido pela lei?",
+    "artigos_gabarito": ["art_459"],
+    "trechos_evidencia": ["Tabatinga, no Amazonas, criada pela Lei nº 7.965, de 22 de dezembro de 1989"],
+    "resposta_esperada": "Tabatinga (AM); Guajará-Mirim (RO); Boa Vista e Bonfim (RR); Macapá e Santana (AP); Brasiléia com extensão a Epitaciolândia, e Cruzeiro do Sul (AC).",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q15",
+    "tipo": "direta",
+    "pergunta": "Qual é o montante máximo que a União financiará para a instalação do CGIBS e como o CGIBS devolverá esse valor?",
+    "artigos_gabarito": ["art_484"],
+    "trechos_evidencia": ["no montante de até R$ 3.800.000.000,00 (três bilhões e oitocentos milhões de reais)"],
+    "resposta_esperada": "Até R$ 3,8 bilhões entre 2025 e 2028, ressarcidos em 20 parcelas semestrais a partir de junho de 2029, remunerados pela Selic.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q16",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Qual é o limite de receita anual abaixo do qual o produtor rural não é contribuinte do IBS e da CBS, e esse limite é corrigido ao longo do tempo?",
+    "artigos_gabarito": ["art_164", "art_167"],
+    "trechos_evidencia": [
+      "receita inferior a R$ 3.600.000,00 (três milhões e seiscentos mil reais) no ano-calendário",
+      "será atualizado anualmente com base na variação do IPCA"
+    ],
+    "resposta_esperada": "R$ 3.600.000,00 por ano-calendário, atualizado anualmente pelo IPCA.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q17",
+    "tipo": "referencia_cruzada",
+    "pergunta": "O arroz faz parte da Cesta Básica Nacional de Alimentos com alíquota zero de IBS e CBS? Onde isso está previsto?",
+    "artigos_gabarito": ["art_125", "anexo_i"],
+    "trechos_evidencia": [
+      "Ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre as vendas de produtos destinados à alimentação humana relacionados no Anexo I",
+      "Arroz das subposições 1006.20 e 1006.30 e do código 1006.40.00 da NCM/SH"
+    ],
+    "resposta_esperada": "Sim. O art. 125 zera as alíquotas dos produtos do Anexo I, e o arroz é o item 1 do Anexo I.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q18",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Ovos têm alíquota zero de IBS e CBS? Em qual anexo da lei estão listados?",
+    "artigos_gabarito": ["art_148", "anexo_xv"],
+    "trechos_evidencia": [
+      "Ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre o fornecimento dos produtos hortícolas, frutas e ovos relacionados no Anexo XV",
+      "Ovos da subposição 0407.2 da NCM/SH"
+    ],
+    "resposta_esperada": "Sim, alíquota zero. Estão no Anexo XV (item 1), por força do art. 148.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q19",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Qual é a redução de alíquota aplicável à locação de imóvel residencial por período de até 90 dias feita por contribuinte do regime regular?",
+    "artigos_gabarito": ["art_253", "art_281"],
+    "trechos_evidencia": [
+      "com período não superior a 90 (noventa) dias ininterruptos, serão tributados de acordo com as mesmas regras aplicáveis aos serviços de hotelaria",
+      "ficam reduzidas em 40% (quarenta por cento)"
+    ],
+    "resposta_esperada": "40%, porque a locação de até 90 dias segue as regras da hotelaria, cujas alíquotas são reduzidas em 40%.",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q20",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Uma empresa pode apropriar crédito de IBS e CBS sobre o plano de saúde que contrata para seus empregados?",
+    "artigos_gabarito": ["art_238", "art_57"],
+    "trechos_evidencia": [
+      "Fica vedado o crédito de IBS e de CBS para os adquirentes de planos de assistência à saúde.",
+      "serviços de planos de assistência à saúde destinados a empregados e seus dependentes em decorrência de acordo ou convenção coletiva de trabalho"
+    ],
+    "resposta_esperada": "Em regra não (art. 238), mas sim quando o plano decorre de acordo ou convenção coletiva de trabalho (art. 57, § 3º, IV, f), caso em que o art. 238 não se aplica.",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q21",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Até quando o contribuinte deve pagar o IBS e a CBS do período e o que é o saldo a recolher?",
+    "artigos_gabarito": ["art_29", "art_45"],
+    "trechos_evidencia": [
+      "O contribuinte deverá, até a data de vencimento, efetuar o pagamento do saldo a recolher de que trata o art. 45",
+      "quando positivo, saldo a recolher que deverá ser pago pelo contribuinte"
+    ],
+    "resposta_esperada": "Até a data de vencimento. O saldo a recolher é o resultado positivo da diferença entre débitos do período e créditos apropriados (mais saldo a recuperar anterior), após deduções.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q22",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Uma empresa autuada em lançamento de ofício com a multa padrão que pagar integralmente o débito no prazo de impugnação tem qual redução da multa, e de quanto era a multa?",
+    "artigos_gabarito": ["art_341f", "art_341h"],
+    "trechos_evidencia": [
+      "Aplica-se a multa de 75% (setenta e cinco por cento), nos casos de lançamento de ofício",
+      "50% (cinquenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário no prazo previsto para apresentação de impugnação administrativa"
+    ],
+    "resposta_esperada": "A multa é de 75%; o pagamento integral no prazo de impugnação reduz a penalidade em 50% (60% se participar do PNCT ou tiver bons antecedentes fiscais).",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q23",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Como são reduzidas as alíquotas do IBS e da CBS nas compras feitas pela administração pública entre 2027 e 2033?",
+    "artigos_gabarito": ["art_472", "art_370"],
+    "trechos_evidencia": [
+      "de 2027 a 2033, nos termos do art. 370 desta Lei Complementar",
+      "O cálculo do redutor a ser aplicado, em cada ano de vigência, sobre as alíquotas da CBS e do IBS nas operações contratadas pela administração pública"
+    ],
+    "resposta_esperada": "De modo uniforme, na proporção do redutor calculado anualmente nos termos do art. 370, que busca equivalência com a receita estimada dos tributos substituídos nos anos-base de 2024 a 2026.",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q24",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Se o gás natural comprado com alíquota zero do Imposto Seletivo para uso industrial for desviado para outra finalidade, o que o adquirente deve pagar além do imposto?",
+    "artigos_gabarito": ["art_423", "art_29"],
+    "trechos_evidencia": [
+      "acrescida de multa e juros de mora nos termos do § 2º do art. 29 desta Lei Complementar",
+      "multa de mora, calculada à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso"
+    ],
+    "resposta_esperada": "O Imposto Seletivo pela alíquota do art. 422, acrescido de multa de mora de 0,33% ao dia (limitada a 20%) e juros Selic, conforme o art. 29, § 2º, na condição de responsável.",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q25",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Para que a venda de bem industrializado nacional a empresa na Zona Franca de Manaus tenha alíquota zero de IBS e CBS, o que o comprador precisa ter?",
+    "artigos_gabarito": ["art_445", "art_442"],
+    "trechos_evidencia": [
+      "habilitado nos termos do art. 442 desta Lei Complementar",
+      "a inscrição específica em cadastro da Superintendência da Zona Franca de Manaus (Suframa)"
+    ],
+    "resposta_esperada": "Estar habilitado (inscrição na Suframa e, para indústria incentivada, projeto aprovado pelo Conselho da Suframa) e ser do regime regular ou do Simples Nacional.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q26",
+    "tipo": "referencia_cruzada",
+    "pergunta": "Quantos membros compõem o Conselho Superior do CGIBS e em quanto tempo ele deveria ser instalado após a publicação da lei?",
+    "artigos_gabarito": ["art_481", "art_483"],
+    "trechos_evidencia": [
+      "27 (vinte e sete) membros e respectivos suplentes, representantes de cada Estado e do Distrito Federal",
+      "instalado em até 120 (cento e vinte) dias contados da data de publicação desta Lei Complementar"
+    ],
+    "resposta_esperada": "54 membros (27 dos Estados e DF e 27 dos Municípios e DF), com instalação em até 120 dias da publicação.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q27",
+    "tipo": "referencia_cruzada",
+    "pergunta": "A partir de quando produz efeitos a regra que permite crédito presumido na compra de bens móveis usados de pessoa física para revenda?",
+    "artigos_gabarito": ["art_171", "art_544"],
+    "trechos_evidencia": [
+      "poderá apropriar créditos presumidos dos referidos tributos relativos às aquisições, para revenda, de bem móvel usado de pessoa física",
+      "a partir de 1º de janeiro de 2027, em relação aos arts. 168 a 171"
+    ],
+    "resposta_esperada": "A partir de 1º de janeiro de 2027 (art. 544, III, que abrange os arts. 168 a 171).",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q28",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Vendi um projeto de consultoria e o cliente pagou metade adiantado; o resto só na entrega. Quando eu passo a dever o imposto novo?",
+    "artigos_gabarito": ["art_10"],
+    "trechos_evidencia": ["caso ocorra pagamento, integral ou parcial, antes do fornecimento"],
+    "resposta_esperada": "Na data de cada parcela paga antes da entrega é exigida uma antecipação (base = valor da parcela); o valor definitivo é calculado na data do fornecimento, com base no total da operação.",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q29",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Dou um desconto no boleto só se o cliente pagar até o dia 10. Esse desconto sai do valor sobre o qual pago o imposto?",
+    "artigos_gabarito": ["art_12"],
+    "trechos_evidencia": ["descontos concedidos sob condição"],
+    "resposta_esperada": "Não. Desconto condicionado a evento posterior integra a base de cálculo; só o desconto incondicional (no documento fiscal, sem depender de evento futuro) fica fora.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q30",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Minha empresa comprou um carro que o sócio usa no dia a dia dele. Dá para aproveitar o imposto pago nessa compra?",
+    "artigos_gabarito": ["art_57"],
+    "trechos_evidencia": ["veículo e os demais bens e serviços relacionados à sua aquisição e manutenção, inclusive seguro e combustível"],
+    "resposta_esperada": "Não. Veículo fornecido a sócio é bem de uso ou consumo pessoal e a apropriação de crédito é vedada.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q31",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Acumulei um saldo grande de imposto a recuperar. Posso vender esse saldo para outra empresa usar?",
+    "artigos_gabarito": ["art_55"],
+    "trechos_evidencia": ["É vedada a transferência, a qualquer título, para outra pessoa ou entidade sem personalidade jurídica, de créditos do IBS e da CBS."],
+    "resposta_esperada": "Não. A transferência de créditos a terceiros é vedada; só passam ao sucessor em fusão, cisão ou incorporação.",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q32",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Tenho um brechó online e vendo toda semana, mas não abri CNPJ. Preciso me preocupar com IBS e CBS?",
+    "artigos_gabarito": ["art_21"],
+    "trechos_evidencia": ["de modo habitual ou em volume que caracterize atividade econômica"],
+    "resposta_esperada": "Sim. Quem fornece de modo habitual ou em volume que caracterize atividade econômica é contribuinte e deve se inscrever no cadastro.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q33",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Sou agricultor e faturo uns R$ 2 milhões por ano. Vou ter que recolher esses impostos novos?",
+    "artigos_gabarito": ["art_164"],
+    "trechos_evidencia": ["receita inferior a R$ 3.600.000,00 (três milhões e seiscentos mil reais) no ano-calendário e o produtor rural integrado não serão considerados contribuintes"],
+    "resposta_esperada": "Não, por padrão. Produtor rural com receita anual abaixo de R$ 3,6 milhões não é contribuinte (pode optar pelo regime regular).",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "q34",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Tenho um bar e vendo cerveja. A cerveja entra no mesmo tratamento especial que a comida do bar?",
+    "artigos_gabarito": ["art_273"],
+    "trechos_evidencia": ["bebidas alcoólicas, ainda que preparadas no estabelecimento"],
+    "resposta_esperada": "Não. Bebidas alcoólicas ficam fora do regime específico de bares e restaurantes, mesmo preparadas no estabelecimento.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q35",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Mandei uma pergunta formal por escrito para o fisco sobre como tributar uma operação e ainda não me responderam. Posso ser autuado nesse meio tempo?",
+    "artigos_gabarito": ["art_323c"],
+    "trechos_evidencia": ["nenhum procedimento fiscal será promovido, em relação à espécie consultada, no período entre a protocolização do requerimento de consulta e a ciência da resposta"],
+    "resposta_esperada": "Não, se a consulta foi protocolada antes do vencimento da obrigação: nenhum procedimento fiscal é promovido sobre a matéria até a ciência da resposta.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q36",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Levei um auto de infração. Se eu parcelar o débito logo no prazo de defesa, a multa diminui?",
+    "artigos_gabarito": ["art_341h"],
+    "trechos_evidencia": ["40% (quarenta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário no prazo previsto para apresentação de impugnação administrativa"],
+    "resposta_esperada": "Sim, redução de 40% da multa (50% para quem participa do PNCT ou tem bons antecedentes fiscais).",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q37",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Minha empresa tem crédito acumulado de PIS e COFINS. Quando esses tributos acabarem, eu perco esse saldo?",
+    "artigos_gabarito": ["art_378"],
+    "trechos_evidencia": ["permanecerão válidos e utilizáveis na forma deste Capítulo"],
+    "resposta_esperada": "Não. Os créditos continuam válidos, podem compensar a CBS ou ser ressarcidos/compensados com outros tributos federais, mantido o prazo de utilização.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q38",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Fabrico refrigerante. Vou pagar o chamado imposto do pecado?",
+    "artigos_gabarito": ["art_409"],
+    "trechos_evidencia": ["bebidas açucaradas"],
+    "resposta_esperada": "Sim. Bebidas açucaradas estão entre os bens sujeitos ao Imposto Seletivo (art. 409, § 1º, V), conforme NCM do Anexo XVII.",
+    "dificuldade": "media"
+  },
+  {
+    "id": "q39",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Tenho contratos de aluguel de salas comerciais assinados antes da lei sair. Existe um jeito mais simples de pagar o imposto sobre esses aluguéis?",
+    "artigos_gabarito": ["art_487"],
+    "trechos_evidencia": ["3,65% (três inteiros e sessenta e cinco centésimos por cento) da receita bruta recebida"],
+    "resposta_esperada": "Sim. Para contratos por prazo determinado firmados até a publicação da lei (não residenciais registrados até 31/12/2025), pode-se optar por recolher IBS e CBS a 3,65% da receita bruta, sem direito a crédito.",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "q40",
+    "tipo": "vocabulario_diferente",
+    "pergunta": "Contrato caminhoneiro autônomo, pessoa física, para fazer meus fretes. Como ele não destaca imposto, eu fico sem nenhum crédito nessa despesa?",
+    "artigos_gabarito": ["art_169"],
+    "trechos_evidencia": ["créditos presumidos dos referidos tributos relativos às aquisições de serviço de transporte de carga de transportador autônomo pessoa física"],
+    "resposta_esperada": "Não. O contribuinte do regime regular pode apropriar crédito presumido, calculado por percentuais divulgados anualmente, desde que suporte a cobrança do frete.",
+    "dificuldade": "media"
+  }
+]

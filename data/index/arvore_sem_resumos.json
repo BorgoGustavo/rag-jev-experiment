@@ -1,0 +1,5558 @@
+{
+ "doc_name": "lcp214_compilado.pdf",
+ "doc_title": "LEI COMPLEMENTAR Nº 214, DE 16 DE JANEIRO DE 2025",
+ "structure": [
+  {
+   "title": "LEI COMPLEMENTAR Nº 214, DE 16 DE JANEIRO DE2025",
+   "node_id": "0000",
+   "start_index": 1,
+   "end_index": 1,
+   "artigos": [],
+   "ruido": false
+  },
+  {
+   "title": "LIVRO I DO IMPOSTO SOBRE BENS E SERVIÇOS (IBS)E DA CONTRIBUIÇÃO SOCIAL SOBRE BENS ESERVIÇOS (CBS)",
+   "node_id": "0001",
+   "start_index": 1,
+   "end_index": 177,
+   "nodes": [
+    {
+     "title": "TÍTULO I DAS NORMAS GERAIS DO IBS E DA CBS",
+     "node_id": "0002",
+     "start_index": 1,
+     "end_index": 47,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+       "node_id": "0003",
+       "start_index": 1,
+       "end_index": 2,
+       "nodes": [
+        {
+         "title": "LIVRO I DO IMPOSTO SOBRE BENS E SERVIÇOS (IBS) E DA CONTRIBUIÇÃO SOCIAL SOBRE BENS E SERVIÇOS (CBS)",
+         "node_id": "0004",
+         "start_index": 1,
+         "end_index": 1,
+         "artigos": [
+          "art_1",
+          "art_2",
+          "art_3"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "a) bens todas e quaisquer que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive",
+         "node_id": "0005",
+         "start_index": 1,
+         "end_index": 2,
+         "artigos": [],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_1",
+        "art_2",
+        "art_3"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II DO IBS E DA CBS SOBRE OPERAÇÕES com bens e serviços",
+       "node_id": "0006",
+       "start_index": 2,
+       "end_index": 35,
+       "nodes": [
+        {
+         "title": "Seção I Das Hipóteses de Incidência",
+         "node_id": "0007",
+         "start_index": 2,
+         "end_index": 6,
+         "nodes": [
+          {
+           "title": "CAPÍTULO II DO IBS E DA CBS SOBRE OPERAÇÕES com bens e serviços",
+           "node_id": "0008",
+           "start_index": 2,
+           "end_index": 5,
+           "artigos": [
+            "art_4",
+            "art_5",
+            "art_6"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "a) relação de emprego com o contribuinte; ou",
+           "node_id": "0009",
+           "start_index": 5,
+           "end_index": 6,
+           "artigos": [
+            "art_7",
+            "art_7a"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_4",
+          "art_5",
+          "art_6",
+          "art_7",
+          "art_7a"
+         ]
+        },
+        {
+         "title": "Seção II Das Imunidades",
+         "node_id": "0010",
+         "start_index": 6,
+         "end_index": 7,
+         "artigos": [
+          "art_8",
+          "art_9"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Do Momento de Ocorrência do Fato Gerador",
+         "node_id": "0011",
+         "start_index": 7,
+         "end_index": 8,
+         "artigos": [
+          "art_10"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Do Local da Operação",
+         "node_id": "0012",
+         "start_index": 8,
+         "end_index": 11,
+         "artigos": [
+          "art_11"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Da Base de Cálculo",
+         "node_id": "0013",
+         "start_index": 11,
+         "end_index": 12,
+         "artigos": [
+          "art_12",
+          "art_13"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Das Alíquotas",
+         "node_id": "0014",
+         "start_index": 12,
+         "end_index": 15,
+         "nodes": [
+          {
+           "title": "Subseção I Das Alíquotas-Padrão",
+           "node_id": "0015",
+           "start_index": 12,
+           "end_index": 13,
+           "artigos": [
+            "art_14",
+            "art_15",
+            "art_16",
+            "art_17"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção II Das Alíquotas de Referência",
+           "node_id": "0016",
+           "start_index": 13,
+           "end_index": 15,
+           "artigos": [
+            "art_18",
+            "art_19",
+            "art_20"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_14",
+          "art_15",
+          "art_16",
+          "art_17",
+          "art_18",
+          "art_19",
+          "art_20"
+         ]
+        },
+        {
+         "title": "Seção VII Da Sujeição Passiva",
+         "node_id": "0017",
+         "start_index": 15,
+         "end_index": 22,
+         "artigos": [
+          "art_21",
+          "art_22",
+          "art_23",
+          "art_24",
+          "art_25",
+          "art_26"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VIII Das Modalidades de Extinção dos Débitos",
+         "node_id": "0018",
+         "start_index": 22,
+         "end_index": 27,
+         "nodes": [
+          {
+           "title": "Subseção I Disposições Gerais",
+           "node_id": "0019",
+           "start_index": 22,
+           "end_index": 23,
+           "artigos": [
+            "art_27",
+            "art_28"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção II Do Pagamento pelo Contribuinte",
+           "node_id": "0020",
+           "start_index": 23,
+           "end_index": 23,
+           "artigos": [
+            "art_29",
+            "art_30"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção III Do Recolhimento na Liquidação Financeira (Split Payment)",
+           "node_id": "0021",
+           "start_index": 23,
+           "end_index": 26,
+           "artigos": [
+            "art_31",
+            "art_32",
+            "art_33",
+            "art_34",
+            "art_35"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção IV Do Recolhimento pelo Adquirente",
+           "node_id": "0022",
+           "start_index": 26,
+           "end_index": 27,
+           "artigos": [
+            "art_36"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção V Do Pagamento pelo Responsável",
+           "node_id": "0023",
+           "start_index": 27,
+           "end_index": 27,
+           "artigos": [
+            "art_37"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_27",
+          "art_28",
+          "art_29",
+          "art_30",
+          "art_31",
+          "art_32",
+          "art_33",
+          "art_34",
+          "art_35",
+          "art_36",
+          "art_37"
+         ]
+        },
+        {
+         "title": "Seção IX Do Pagamento Indevido ou a Maior",
+         "node_id": "0024",
+         "start_index": 27,
+         "end_index": 27,
+         "artigos": [
+          "art_38"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção X Do Ressarcimento",
+         "node_id": "0025",
+         "start_index": 27,
+         "end_index": 29,
+         "artigos": [
+          "art_39",
+          "art_40"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XI Dos Regimes de Apuração",
+         "node_id": "0026",
+         "start_index": 29,
+         "end_index": 31,
+         "artigos": [
+          "art_41",
+          "art_42",
+          "art_43",
+          "art_44",
+          "art_45",
+          "art_46"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XII Da Não Cumulatividade",
+         "node_id": "0027",
+         "start_index": 31,
+         "end_index": 33,
+         "artigos": [
+          "art_47",
+          "art_48",
+          "art_49",
+          "art_50",
+          "art_51",
+          "art_52",
+          "art_53",
+          "art_54",
+          "art_55",
+          "art_56"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XIII Dos Bens e Serviços de Uso ou Consumo Pessoal",
+         "node_id": "0028",
+         "start_index": 33,
+         "end_index": 35,
+         "nodes": [
+          {
+           "title": "Seção XIII Dos Bens e Serviços de Uso ou Consumo Pessoal (intro)",
+           "start_index": 33,
+           "end_index": 34,
+           "node_id": "0029",
+           "artigos": [
+            "art_57"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "c) os empregados do contribuinte; e",
+           "node_id": "0030",
+           "start_index": 34,
+           "end_index": 35,
+           "artigos": [],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_57"
+         ]
+        }
+       ],
+       "artigos": [
+        "art_4",
+        "art_5",
+        "art_6",
+        "art_7",
+        "art_7a",
+        "art_8",
+        "art_9",
+        "art_10",
+        "art_11",
+        "art_12",
+        "art_13",
+        "art_14",
+        "art_15",
+        "art_16",
+        "art_17",
+        "art_18",
+        "art_19",
+        "art_20",
+        "art_21",
+        "art_22",
+        "art_23",
+        "art_24",
+        "art_25",
+        "art_26",
+        "art_27",
+        "art_28",
+        "art_29",
+        "art_30",
+        "art_31",
+        "art_32",
+        "art_33",
+        "art_34",
+        "art_35",
+        "art_36",
+        "art_37",
+        "art_38",
+        "art_39",
+        "art_40",
+        "art_41",
+        "art_42",
+        "art_43",
+        "art_44",
+        "art_45",
+        "art_46",
+        "art_47",
+        "art_48",
+        "art_49",
+        "art_50",
+        "art_51",
+        "art_52",
+        "art_53",
+        "art_54",
+        "art_55",
+        "art_56",
+        "art_57"
+       ]
+      },
+      {
+       "title": "CAPÍTULO III DA OPERACIONALIZAÇÃO DO IBS E DA CBS",
+       "node_id": "0031",
+       "start_index": 35,
+       "end_index": 37,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0032",
+         "start_index": 35,
+         "end_index": 35,
+         "artigos": [
+          "art_58",
+          "art_59"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Do Cadastro com Identificação Única",
+         "node_id": "0033",
+         "start_index": 35,
+         "end_index": 36,
+         "nodes": [
+          {
+           "title": "CAPÍTULO III DA OPERACIONALIZAÇÃO DO IBS E DA CBS",
+           "node_id": "0034",
+           "start_index": 35,
+           "end_index": 36,
+           "artigos": [],
+           "ruido": false
+          }
+         ],
+         "artigos": []
+        },
+        {
+         "title": "Seção III Do Documento Fiscal Eletrônico",
+         "node_id": "0035",
+         "start_index": 36,
+         "end_index": 37,
+         "artigos": [
+          "art_60"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Dos Programas de Incentivo à Cidadania Fiscal",
+         "node_id": "0036",
+         "start_index": 37,
+         "end_index": 37,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Disposições Transitórias",
+         "node_id": "0037",
+         "start_index": 37,
+         "end_index": 37,
+         "artigos": [],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_58",
+        "art_59",
+        "art_60"
+       ]
+      },
+      {
+       "title": "CAPÍTULO IV DO IBS E DA CBS SOBRE IMPORTAÇÕES",
+       "node_id": "0038",
+       "start_index": 37,
+       "end_index": 43,
+       "nodes": [
+        {
+         "title": "Seção IV Dos Programas de Incentivo à Cidadania Fiscal",
+         "node_id": "0039",
+         "start_index": 37,
+         "end_index": 37,
+         "artigos": [
+          "art_61"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Disposições Transitórias",
+         "node_id": "0040",
+         "start_index": 37,
+         "end_index": 38,
+         "artigos": [
+          "art_62"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção I Da Hipótese de Incidência",
+         "node_id": "0041",
+         "start_index": 38,
+         "end_index": 38,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Da Importação de Bens Imateriais e Serviços",
+         "node_id": "0042",
+         "start_index": 38,
+         "end_index": 39,
+         "nodes": [
+          {
+           "title": "Seção I Da Hipótese de Incidência",
+           "node_id": "0043",
+           "start_index": 38,
+           "end_index": 39,
+           "artigos": [
+            "art_63",
+            "art_64",
+            "art_65",
+            "art_66"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_63",
+          "art_64",
+          "art_65",
+          "art_66"
+         ]
+        },
+        {
+         "title": "Seção III Da Importação de Bens Materiais",
+         "node_id": "0044",
+         "start_index": 39,
+         "end_index": 43,
+         "nodes": [
+          {
+           "title": "Subseção I Do Fato Gerador",
+           "node_id": "0045",
+           "start_index": 39,
+           "end_index": 40,
+           "nodes": [
+            {
+             "title": "d) por motivo de guerra ou de calamidade pública; ou",
+             "node_id": "0046",
+             "start_index": 39,
+             "end_index": 40,
+             "artigos": [],
+             "ruido": true
+            }
+           ],
+           "artigos": []
+          },
+          {
+           "title": "Subseção II Do Momento da Apuração",
+           "node_id": "0047",
+           "start_index": 40,
+           "end_index": 40,
+           "artigos": [
+            "art_67"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção III Do Local da Importação de Bens Materiais",
+           "node_id": "0048",
+           "start_index": 40,
+           "end_index": 40,
+           "artigos": [
+            "art_68"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção IV Da Base de Cálculo",
+           "node_id": "0049",
+           "start_index": 40,
+           "end_index": 41,
+           "artigos": [
+            "art_69",
+            "art_70"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção V Da Alíquota",
+           "node_id": "0050",
+           "start_index": 41,
+           "end_index": 41,
+           "artigos": [
+            "art_71"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção VI Da Sujeição Passiva",
+           "node_id": "0051",
+           "start_index": 41,
+           "end_index": 42,
+           "artigos": [
+            "art_72",
+            "art_73",
+            "art_74",
+            "art_75"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção VII Do Pagamento",
+           "node_id": "0052",
+           "start_index": 42,
+           "end_index": 43,
+           "artigos": [
+            "art_76",
+            "art_77"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção VIII Da Não Cumulatividade",
+           "node_id": "0053",
+           "start_index": 43,
+           "end_index": 43,
+           "artigos": [
+            "art_78"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_67",
+          "art_68",
+          "art_69",
+          "art_70",
+          "art_71",
+          "art_72",
+          "art_73",
+          "art_74",
+          "art_75",
+          "art_76",
+          "art_77",
+          "art_78"
+         ]
+        }
+       ],
+       "artigos": [
+        "art_61",
+        "art_62",
+        "art_63",
+        "art_64",
+        "art_65",
+        "art_66",
+        "art_67",
+        "art_68",
+        "art_69",
+        "art_70",
+        "art_71",
+        "art_72",
+        "art_73",
+        "art_74",
+        "art_75",
+        "art_76",
+        "art_77",
+        "art_78"
+       ]
+      },
+      {
+       "title": "CAPÍTULO V DO IBS E DA CBS SOBRE EXPORTAÇÕES",
+       "node_id": "0054",
+       "start_index": 43,
+       "end_index": 47,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0055",
+         "start_index": 43,
+         "end_index": 43,
+         "artigos": [
+          "art_79",
+          "art_80"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Das Exportações de Bens Imateriais e de Serviços",
+         "node_id": "0056",
+         "start_index": 43,
+         "end_index": 44,
+         "nodes": [
+          {
+           "title": "CAPÍTULO V DO IBS E DA CBS SOBRE EXPORTAÇÕES",
+           "node_id": "0057",
+           "start_index": 43,
+           "end_index": 44,
+           "artigos": [],
+           "ruido": false
+          }
+         ],
+         "artigos": []
+        },
+        {
+         "title": "Seção III Das Exportações de Bens Materiais",
+         "node_id": "0058",
+         "start_index": 44,
+         "end_index": 47,
+         "nodes": [
+          {
+           "title": "Seção III Das Exportações de Bens Materiais (intro)",
+           "start_index": 44,
+           "end_index": 45,
+           "node_id": "0059",
+           "artigos": [
+            "art_81",
+            "art_81a",
+            "art_82"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "a) R$ 1.000.000,00 (um milhão de reais); e",
+           "node_id": "0060",
+           "start_index": 45,
+           "end_index": 47,
+           "artigos": [
+            "art_83"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_81",
+          "art_81a",
+          "art_82",
+          "art_83"
+         ]
+        }
+       ],
+       "artigos": [
+        "art_79",
+        "art_80",
+        "art_81",
+        "art_81a",
+        "art_82",
+        "art_83"
+       ]
+      }
+     ],
+     "artigos": [
+      "art_1",
+      "art_2",
+      "art_3",
+      "art_4",
+      "art_5",
+      "art_6",
+      "art_7",
+      "art_7a",
+      "art_8",
+      "art_9",
+      "art_10",
+      "art_11",
+      "art_12",
+      "art_13",
+      "art_14",
+      "art_15",
+      "art_16",
+      "art_17",
+      "art_18",
+      "art_19",
+      "art_20",
+      "art_21",
+      "art_22",
+      "art_23",
+      "art_24",
+      "art_25",
+      "art_26",
+      "art_27",
+      "art_28",
+      "art_29",
+      "art_30",
+      "art_31",
+      "art_32",
+      "art_33",
+      "art_34",
+      "art_35",
+      "art_36",
+      "art_37",
+      "art_38",
+      "art_39",
+      "art_40",
+      "art_41",
+      "art_42",
+      "art_43",
+      "art_44",
+      "art_45",
+      "art_46",
+      "art_47",
+      "art_48",
+      "art_49",
+      "art_50",
+      "art_51",
+      "art_52",
+      "art_53",
+      "art_54",
+      "art_55",
+      "art_56",
+      "art_57",
+      "art_58",
+      "art_59",
+      "art_60",
+      "art_61",
+      "art_62",
+      "art_63",
+      "art_64",
+      "art_65",
+      "art_66",
+      "art_67",
+      "art_68",
+      "art_69",
+      "art_70",
+      "art_71",
+      "art_72",
+      "art_73",
+      "art_74",
+      "art_75",
+      "art_76",
+      "art_77",
+      "art_78",
+      "art_79",
+      "art_80",
+      "art_81",
+      "art_81a",
+      "art_82",
+      "art_83"
+     ]
+    },
+    {
+     "title": "TÍTULO II DOS REGIMES ADUANEIROS ESPECIAIS E DOSREGIMES DE BAGAGEM, DE REMESSAS internacionais e deFornecimento de Combustível para Aeronaves em Tráfego Internacional",
+     "node_id": "0061",
+     "start_index": 47,
+     "end_index": 56,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DOS REGIMES ADUANEIROS ESPECIAIS",
+       "node_id": "0062",
+       "start_index": 47,
+       "end_index": 51,
+       "nodes": [
+        {
+         "title": "Seção I Do Regime de Trânsito",
+         "node_id": "0063",
+         "start_index": 47,
+         "end_index": 47,
+         "artigos": [
+          "art_84",
+          "art_85",
+          "art_86",
+          "art_87"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Dos Regimes de Depósito",
+         "node_id": "0064",
+         "start_index": 47,
+         "end_index": 48,
+         "nodes": [
+          {
+           "title": "CAPÍTULO I DOS REGIMES ADUANEIROS ESPECIAIS",
+           "node_id": "0065",
+           "start_index": 47,
+           "end_index": 48,
+           "artigos": [],
+           "ruido": false
+          }
+         ],
+         "artigos": []
+        },
+        {
+         "title": "Seção III Dos Regimes de Permanência Temporária",
+         "node_id": "0066",
+         "start_index": 48,
+         "end_index": 49,
+         "artigos": [
+          "art_88",
+          "art_89"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Dos Regimes de Aperfeiçoamento",
+         "node_id": "0067",
+         "start_index": 49,
+         "end_index": 49,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Do Regime Aduaneiro Especial Aplicável ao Setor de Petróleo e Gás (Repetro)",
+         "node_id": "0068",
+         "start_index": 49,
+         "end_index": 51,
+         "nodes": [
+          {
+           "title": "Seção IV Dos Regimes de Aperfeiçoamento",
+           "node_id": "0069",
+           "start_index": 49,
+           "end_index": 51,
+           "artigos": [
+            "art_90",
+            "art_91",
+            "art_92",
+            "art_93"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_90",
+          "art_91",
+          "art_92",
+          "art_93"
+         ]
+        },
+        {
+         "title": "Seção VI Dos Regimes de Bagagem e de Remessas Internacionais",
+         "node_id": "0070",
+         "start_index": 51,
+         "end_index": 51,
+         "artigos": [
+          "art_94"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Do Regime de Fornecimento de Combustível para Aeronave em TráfegoInternacional",
+         "node_id": "0071",
+         "start_index": 51,
+         "end_index": 51,
+         "artigos": [
+          "art_98"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VIII Disposições Finais",
+         "node_id": "0072",
+         "start_index": 51,
+         "end_index": 51,
+         "artigos": [
+          "art_98a",
+          "art_98b",
+          "art_99",
+          "art_100",
+          "art_101",
+          "art_102",
+          "art_103",
+          "art_104"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_84",
+        "art_85",
+        "art_86",
+        "art_87",
+        "art_88",
+        "art_89",
+        "art_90",
+        "art_91",
+        "art_92",
+        "art_93",
+        "art_94",
+        "art_98",
+        "art_98a",
+        "art_98b",
+        "art_99",
+        "art_100",
+        "art_101",
+        "art_102",
+        "art_103",
+        "art_104"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II DAS ZONAS DE PROCESSAMENTO DE EXPORTAÇÃO",
+       "node_id": "0073",
+       "start_index": 51,
+       "end_index": 53,
+       "nodes": [
+        {
+         "title": "b) o remetente e o destinatário sejam pessoas físicas; e",
+         "node_id": "0074",
+         "start_index": 51,
+         "end_index": 53,
+         "artigos": [
+          "art_95",
+          "art_96",
+          "art_97"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_95",
+        "art_96",
+        "art_97"
+       ]
+      },
+      {
+       "title": "CAPÍTULO III DOS REGIMES DOS BENS DE CAPITAL",
+       "node_id": "0075",
+       "start_index": 53,
+       "end_index": 56,
+       "nodes": [
+        {
+         "title": "Seção I Do Regime Tributário para Incentivo à Modernização e à Ampliação da EstruturaPortuária (Reporto)",
+         "node_id": "0076",
+         "start_index": 53,
+         "end_index": 54,
+         "nodes": [
+          {
+           "title": "CAPÍTULO III DOS REGIMES DOS BENS DE CAPITAL",
+           "node_id": "0077",
+           "start_index": 53,
+           "end_index": 54,
+           "artigos": [
+            "art_105"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_105"
+         ]
+        },
+        {
+         "title": "Seção II Do Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (Reidi)",
+         "node_id": "0078",
+         "start_index": 54,
+         "end_index": 55,
+         "artigos": [
+          "art_106"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Do Regime Tributário para Incentivo à Atividade Naval - Renaval",
+         "node_id": "0079",
+         "start_index": 55,
+         "end_index": 56,
+         "artigos": [
+          "art_107"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Da Desoneração da Aquisição de Bens de Capital",
+         "node_id": "0080",
+         "start_index": 56,
+         "end_index": 56,
+         "artigos": [],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_105",
+        "art_106",
+        "art_107"
+       ]
+      }
+     ],
+     "artigos": [
+      "art_84",
+      "art_85",
+      "art_86",
+      "art_87",
+      "art_88",
+      "art_89",
+      "art_90",
+      "art_91",
+      "art_92",
+      "art_93",
+      "art_94",
+      "art_98",
+      "art_98a",
+      "art_98b",
+      "art_99",
+      "art_100",
+      "art_101",
+      "art_102",
+      "art_103",
+      "art_104",
+      "art_95",
+      "art_96",
+      "art_97",
+      "art_105",
+      "art_106",
+      "art_107"
+     ]
+    },
+    {
+     "title": "TÍTULO III DA DEVOLUÇÃO PERSONALIZADA DO IBS E DA CBS(CASHBACK) E DA CESTA BÁSICA NACIONAL DE ALIMENTOS",
+     "node_id": "0081",
+     "start_index": 56,
+     "end_index": 60,
+     "nodes": [
+      {
+       "title": "Seção IV Da Desoneração da Aquisição de Bens de Capital",
+       "node_id": "0082",
+       "start_index": 56,
+       "end_index": 57,
+       "artigos": [
+        "art_108",
+        "art_109",
+        "art_110",
+        "art_111"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO I DA DEVOLUÇÃO PERSONALIZADA DO IBS E DA CBS(CASHBACK)",
+       "node_id": "0083",
+       "start_index": 57,
+       "end_index": 60,
+       "artigos": [
+        "art_112",
+        "art_113",
+        "art_114",
+        "art_115",
+        "art_116",
+        "art_117",
+        "art_118",
+        "art_119",
+        "art_120",
+        "art_121",
+        "art_122",
+        "art_123",
+        "art_124"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO II DA CESTA BÁSICA NACIONAL DE ALIMENTOS",
+       "node_id": "0084",
+       "start_index": 60,
+       "end_index": 60,
+       "artigos": [
+        "art_125"
+       ],
+       "ruido": false
+      }
+     ],
+     "artigos": [
+      "art_108",
+      "art_109",
+      "art_110",
+      "art_111",
+      "art_112",
+      "art_113",
+      "art_114",
+      "art_115",
+      "art_116",
+      "art_117",
+      "art_118",
+      "art_119",
+      "art_120",
+      "art_121",
+      "art_122",
+      "art_123",
+      "art_124",
+      "art_125"
+     ]
+    },
+    {
+     "title": "TÍTULO IV DOS REGIMES DIFERENCIADOS DO IBS E DA CBS",
+     "node_id": "0085",
+     "start_index": 60,
+     "end_index": 80,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+       "node_id": "0086",
+       "start_index": 60,
+       "end_index": 61,
+       "nodes": [
+        {
+         "title": "CAPÍTULO II DA CESTA BÁSICA NACIONAL DE ALIMENTOS",
+         "node_id": "0087",
+         "start_index": 60,
+         "end_index": 61,
+         "nodes": [
+          {
+           "title": "TÍTULO IV DOS REGIMES DIFERENCIADOS DO IBS E DA CBS",
+           "node_id": "0088",
+           "start_index": 60,
+           "end_index": 61,
+           "artigos": [
+            "art_126"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_126"
+         ]
+        }
+       ],
+       "artigos": [
+        "art_126"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II DA REDUÇÃO EM TRINTA POR CENTO DAS ALÍQUOTAS DOIBS E DA CBS",
+       "node_id": "0089",
+       "start_index": 61,
+       "end_index": 62,
+       "artigos": [
+        "art_127"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO III DA REDUÇÃO EM SESSENTA POR CENTO DAS ALÍQUOTAS DOIBS E DA CBS",
+       "node_id": "0090",
+       "start_index": 62,
+       "end_index": 67,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0091",
+         "start_index": 62,
+         "end_index": 63,
+         "nodes": [
+          {
+           "title": "d) não exerça atividade diversa das habilitações profissionais dos sócios; e",
+           "node_id": "0092",
+           "start_index": 62,
+           "end_index": 62,
+           "artigos": [],
+           "ruido": true
+          },
+          {
+           "title": "CAPÍTULO III DA REDUÇÃO EM SESSENTA POR CENTO DAS ALÍQUOTAS DO IBS E DA CBS",
+           "node_id": "0093",
+           "start_index": 62,
+           "end_index": 63,
+           "artigos": [
+            "art_128"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_128"
+         ]
+        },
+        {
+         "title": "Seção II Dos Serviços de Educação",
+         "node_id": "0094",
+         "start_index": 63,
+         "end_index": 63,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Dos Serviços de Saúde",
+         "node_id": "0095",
+         "start_index": 63,
+         "end_index": 63,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Dos Dispositivos Médicos",
+         "node_id": "0096",
+         "start_index": 63,
+         "end_index": 63,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Dos Dispositivos de Acessibilidade Próprios para Pessoas com Deficiência",
+         "node_id": "0097",
+         "start_index": 63,
+         "end_index": 64,
+         "nodes": [
+          {
+           "title": "Seção II Dos Serviços de Educação",
+           "node_id": "0098",
+           "start_index": 63,
+           "end_index": 63,
+           "artigos": [
+            "art_129"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Seção III Dos Serviços de Saúde",
+           "node_id": "0099",
+           "start_index": 63,
+           "end_index": 63,
+           "artigos": [
+            "art_130"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Seção IV Dos Dispositivos Médicos",
+           "node_id": "0100",
+           "start_index": 63,
+           "end_index": 64,
+           "artigos": [
+            "art_131",
+            "art_132"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_129",
+          "art_130",
+          "art_131",
+          "art_132"
+         ]
+        },
+        {
+         "title": "Seção VI Dos Medicamentos",
+         "node_id": "0101",
+         "start_index": 64,
+         "end_index": 64,
+         "artigos": [
+          "art_133",
+          "art_134"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Dos Alimentos Destinados ao Consumo Humano",
+         "node_id": "0102",
+         "start_index": 64,
+         "end_index": 64,
+         "artigos": [
+          "art_135"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VIII Dos Produtos de Higiene Pessoal e Limpeza Majoritariamente Consumidos porFamílias de Baixa Renda",
+         "node_id": "0103",
+         "start_index": 64,
+         "end_index": 64,
+         "artigos": [
+          "art_136"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IX Dos Produtos Agropecuários, Aquícolas, Pesqueiros, Florestais e ExtrativistasVegetais In Natura",
+         "node_id": "0104",
+         "start_index": 64,
+         "end_index": 65,
+         "artigos": [
+          "art_137",
+          "art_138"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção X Dos Insumos Agropecuários e Aquícolas",
+         "node_id": "0105",
+         "start_index": 65,
+         "end_index": 66,
+         "nodes": [
+          {
+           "title": "a) contribuinte sujeito ao regime regular do IBS e da CBS; e",
+           "node_id": "0106",
+           "start_index": 65,
+           "end_index": 66,
+           "artigos": [],
+           "ruido": true
+          }
+         ],
+         "artigos": []
+        },
+        {
+         "title": "Seção XI Das Produções Nacionais Artísticas, Culturais, de Eventos, Jornalísticas eAudiovisuais",
+         "node_id": "0107",
+         "start_index": 66,
+         "end_index": 67,
+         "artigos": [
+          "art_139"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XII Da Comunicação Institucional",
+         "node_id": "0108",
+         "start_index": 67,
+         "end_index": 67,
+         "artigos": [
+          "art_140"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XIII Das Atividades Desportivas",
+         "node_id": "0109",
+         "start_index": 67,
+         "end_index": 67,
+         "artigos": [
+          "art_141"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XIV Da Soberania e da Segurança Nacional, da Segurança da Informação e daSegurança Cibernética",
+         "node_id": "0110",
+         "start_index": 67,
+         "end_index": 67,
+         "artigos": [
+          "art_142"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_128",
+        "art_129",
+        "art_130",
+        "art_131",
+        "art_132",
+        "art_133",
+        "art_134",
+        "art_135",
+        "art_136",
+        "art_137",
+        "art_138",
+        "art_139",
+        "art_140",
+        "art_141",
+        "art_142"
+       ]
+      },
+      {
+       "title": "CAPÍTULO IV DA REDUÇÃO A ZERO DAS ALÍQUOTAS DO IBS E DA CBS",
+       "node_id": "0111",
+       "start_index": 67,
+       "end_index": 73,
+       "nodes": [
+        {
+         "title": "CAPÍTULO IV DA REDUÇÃO A ZERO DAS ALÍQUOTAS DO IBS E DA CBS (intro)",
+         "start_index": 67,
+         "end_index": 67,
+         "node_id": "0112",
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0113",
+         "start_index": 68,
+         "end_index": 68,
+         "artigos": [
+          "art_143"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Dos Dispositivos Médicos",
+         "node_id": "0114",
+         "start_index": 68,
+         "end_index": 68,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Dos Dispositivos de Acessibilidade Próprios para Pessoas com Deficiência",
+         "node_id": "0115",
+         "start_index": 68,
+         "end_index": 69,
+         "nodes": [
+          {
+           "title": "Seção II Dos Dispositivos Médicos",
+           "node_id": "0116",
+           "start_index": 68,
+           "end_index": 68,
+           "artigos": [
+            "art_144"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "a) órgãos da administração pública direta, autarquias e fundações públicas; e",
+           "node_id": "0117",
+           "start_index": 68,
+           "end_index": 69,
+           "artigos": [
+            "art_145"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_144",
+          "art_145"
+         ]
+        },
+        {
+         "title": "Seção IV Dos Medicamentos",
+         "node_id": "0118",
+         "start_index": 69,
+         "end_index": 70,
+         "artigos": [
+          "art_146"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Dos Produtos de Cuidados Básicos à Saúde Menstrual",
+         "node_id": "0119",
+         "start_index": 70,
+         "end_index": 70,
+         "artigos": [
+          "art_147"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Dos Produtos Hortícolas, Frutas e Ovos",
+         "node_id": "0120",
+         "start_index": 70,
+         "end_index": 70,
+         "artigos": [
+          "art_148",
+          "art_149"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Dos Automóveis de Passageiros Adquiridos por Pessoas com Deficiência ou comTranstorno do Espectro Autista e por Motoristas Profissionais que Destinem o Automóvel àUtilização na Categoria de Aluguel (Táxi)",
+         "node_id": "0121",
+         "start_index": 70,
+         "end_index": 73,
+         "nodes": [
+          {
+           "title": "b) deficiência mental severa ou profunda; ou",
+           "node_id": "0122",
+           "start_index": 70,
+           "end_index": 72,
+           "artigos": [
+            "art_150"
+           ],
+           "ruido": true
+          },
+          {
+           "title": "g) lazer; e",
+           "node_id": "0123",
+           "start_index": 72,
+           "end_index": 73,
+           "artigos": [
+            "art_151",
+            "art_152",
+            "art_153",
+            "art_154",
+            "art_155"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_150",
+          "art_151",
+          "art_152",
+          "art_153",
+          "art_154",
+          "art_155"
+         ]
+        },
+        {
+         "title": "Seção VIII Dos Serviços Prestados por Instituição Científica, Tecnológica e de Inovação (ICT)sem Fins Lucrativos",
+         "node_id": "0124",
+         "start_index": 73,
+         "end_index": 73,
+         "artigos": [
+          "art_156"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_143",
+        "art_144",
+        "art_145",
+        "art_146",
+        "art_147",
+        "art_148",
+        "art_149",
+        "art_150",
+        "art_151",
+        "art_152",
+        "art_153",
+        "art_154",
+        "art_155",
+        "art_156"
+       ]
+      },
+      {
+       "title": "CAPÍTULO V DO TRANSPORTE PÚBLICO COLETIVO DE PASSAGEIROSRODOVIÁRIO E METROVIÁRIO DE CARÁTER URBANO, SEMIURBANO EMETROPOLITANO",
+       "node_id": "0125",
+       "start_index": 73,
+       "end_index": 74,
+       "artigos": [
+        "art_157"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VI DA REABILITAÇÃO URBANA DE ZONAS HISTÓRICAS E DEÁREAS CRÍTICAS DE RECUPERAÇÃO E RECONVERSÃO URBANÍSTICA",
+       "node_id": "0126",
+       "start_index": 74,
+       "end_index": 75,
+       "artigos": [
+        "art_158",
+        "art_159",
+        "art_160",
+        "art_161",
+        "art_162",
+        "art_163"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VII DO PRODUTOR RURAL E DO PRODUTOR RURALINTEGRADO NÃO CONTRIBUINTE",
+       "node_id": "0127",
+       "start_index": 75,
+       "end_index": 77,
+       "artigos": [
+        "art_164",
+        "art_165",
+        "art_166",
+        "art_167",
+        "art_168"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VIII DO TRANSPORTADOR AUTÔNOMO DE CARGA PESSOAFÍSICA NÃO CONTRIBUINTE",
+       "node_id": "0128",
+       "start_index": 77,
+       "end_index": 78,
+       "artigos": [
+        "art_169"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO IX DOS RESÍDUOS E DEMAIS MATERIAIS DESTINADOS ÀRECICLAGEM, REUTILIZAÇÃO OU LOGÍSTICA REVERSA ADQUIRIDOS DEPESSOA FÍSICA, COOPERATIVA OU OUTRA FORMA DE ORGANIZAÇÃOPOPULAR",
+       "node_id": "0129",
+       "start_index": 78,
+       "end_index": 80,
+       "nodes": [
+        {
+         "title": "CAPÍTULO IX DOS RESÍDUOS E DEMAIS MATERIAIS DESTINADOS ÀRECICLAGEM, REUTILIZAÇÃO OU LOGÍSTICA REVERSA ADQUIRIDOS DEPESSOA FÍSICA, COOPERATIVA OU OUTRA FORMA DE ORGANIZAÇÃOPOPULAR (intro)",
+         "start_index": 78,
+         "end_index": 79,
+         "node_id": "0130",
+         "artigos": [
+          "art_170"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "c) associação ou cooperativa que congrega exclusivamente as pessoas de que trata a alínea “b” deste",
+         "node_id": "0131",
+         "start_index": 79,
+         "end_index": 79,
+         "artigos": [],
+         "ruido": true
+        },
+        {
+         "title": "e) a partir de 2033, 13% (treze por cento); e",
+         "node_id": "0132",
+         "start_index": 79,
+         "end_index": 80,
+         "artigos": [],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_170"
+       ]
+      },
+      {
+       "title": "CAPÍTULO X DOS BENS MÓVEIS USADOS ADQUIRIDOS DE PESSOA FÍSICANÃO CONTRIBUINTE PARA REVENDA",
+       "node_id": "0133",
+       "start_index": 80,
+       "end_index": 80,
+       "artigos": [
+        "art_171"
+       ],
+       "ruido": false
+      }
+     ],
+     "artigos": [
+      "art_126",
+      "art_127",
+      "art_128",
+      "art_129",
+      "art_130",
+      "art_131",
+      "art_132",
+      "art_133",
+      "art_134",
+      "art_135",
+      "art_136",
+      "art_137",
+      "art_138",
+      "art_139",
+      "art_140",
+      "art_141",
+      "art_142",
+      "art_143",
+      "art_144",
+      "art_145",
+      "art_146",
+      "art_147",
+      "art_148",
+      "art_149",
+      "art_150",
+      "art_151",
+      "art_152",
+      "art_153",
+      "art_154",
+      "art_155",
+      "art_156",
+      "art_157",
+      "art_158",
+      "art_159",
+      "art_160",
+      "art_161",
+      "art_162",
+      "art_163",
+      "art_164",
+      "art_165",
+      "art_166",
+      "art_167",
+      "art_168",
+      "art_169",
+      "art_170",
+      "art_171"
+     ]
+    },
+    {
+     "title": "TÍTULO V DOS REGIMES ESPECÍFICOS DO IBS E DA CBS",
+     "node_id": "0134",
+     "start_index": 80,
+     "end_index": 124,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DOS COMBUSTÍVEIS",
+       "node_id": "0135",
+       "start_index": 80,
+       "end_index": 86,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0136",
+         "start_index": 80,
+         "end_index": 81,
+         "nodes": [
+          {
+           "title": "CAPÍTULO X DOS BENS MÓVEIS USADOS ADQUIRIDOS DE PESSOA FÍSICA NÃO CONTRIBUINTE PARA REVENDA",
+           "node_id": "0137",
+           "start_index": 80,
+           "end_index": 80,
+           "nodes": [
+            {
+             "title": "TÍTULO V DOS REGIMES ESPECÍFICOS DO IBS E DA CBS",
+             "node_id": "0138",
+             "start_index": 80,
+             "end_index": 80,
+             "artigos": [],
+             "ruido": false
+            }
+           ],
+           "artigos": []
+          },
+          {
+           "title": "CAPÍTULO I DOS COMBUSTÍVEIS",
+           "node_id": "0139",
+           "start_index": 80,
+           "end_index": 81,
+           "artigos": [
+            "art_172"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_172"
+         ]
+        },
+        {
+         "title": "Seção II Da Base de Cálculo",
+         "node_id": "0140",
+         "start_index": 81,
+         "end_index": 81,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Das Alíquotas",
+         "node_id": "0141",
+         "start_index": 81,
+         "end_index": 84,
+         "nodes": [
+          {
+           "title": "Seção II Da Base de Cálculo",
+           "node_id": "0142",
+           "start_index": 81,
+           "end_index": 84,
+           "artigos": [
+            "art_173",
+            "art_174",
+            "art_175"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_173",
+          "art_174",
+          "art_175"
+         ]
+        },
+        {
+         "title": "Seção IV Da Sujeição Passiva",
+         "node_id": "0143",
+         "start_index": 84,
+         "end_index": 85,
+         "artigos": [
+          "art_176",
+          "art_177"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Das Operações com Etanol Anidro Combustível (EAC)",
+         "node_id": "0144",
+         "start_index": 85,
+         "end_index": 86,
+         "artigos": [
+          "art_178",
+          "art_179"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Dos Créditos na Aquisição de Combustíveis Submetidos ao Regime de TributaçãoMonofásica",
+         "node_id": "0145",
+         "start_index": 86,
+         "end_index": 86,
+         "artigos": [],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_172",
+        "art_173",
+        "art_174",
+        "art_175",
+        "art_176",
+        "art_177",
+        "art_178",
+        "art_179"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II DOS SERVIÇOS FINANCEIROS",
+       "node_id": "0146",
+       "start_index": 86,
+       "end_index": 104,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0147",
+         "start_index": 86,
+         "end_index": 89,
+         "nodes": [
+          {
+           "title": "Seção VI Dos Créditos na Aquisição de Combustíveis Submetidos ao Regime de Tributação Monofásica",
+           "node_id": "0148",
+           "start_index": 86,
+           "end_index": 86,
+           "artigos": [
+            "art_180"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "CAPÍTULO II DOS SERVIÇOS FINANCEIROS",
+           "node_id": "0149",
+           "start_index": 86,
+           "end_index": 88,
+           "artigos": [
+            "art_181",
+            "art_182",
+            "art_183"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "b) de modo habitual ou em volume que caracterize atividade econômica; ou",
+           "node_id": "0150",
+           "start_index": 88,
+           "end_index": 89,
+           "artigos": [
+            "art_184"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_180",
+          "art_181",
+          "art_182",
+          "art_183",
+          "art_184"
+         ]
+        },
+        {
+         "title": "Seção II Disposições Comuns aos Serviços Financeiros",
+         "node_id": "0151",
+         "start_index": 89,
+         "end_index": 89,
+         "artigos": [
+          "art_185",
+          "art_186",
+          "art_187",
+          "art_188",
+          "art_189",
+          "art_190",
+          "art_191"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Das Operações de Crédito, de Câmbio, com Títulos e Valores Mobiliários, deSecuritização e de Faturização",
+         "node_id": "0152",
+         "start_index": 89,
+         "end_index": 93,
+         "artigos": [
+          "art_192",
+          "art_193",
+          "art_194",
+          "art_195",
+          "art_196",
+          "art_197",
+          "art_198",
+          "art_199",
+          "art_200"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Do Arrendamento Mercantil",
+         "node_id": "0153",
+         "start_index": 93,
+         "end_index": 94,
+         "artigos": [
+          "art_201",
+          "art_202",
+          "art_203"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Da Administração de Consórcio",
+         "node_id": "0154",
+         "start_index": 94,
+         "end_index": 95,
+         "artigos": [
+          "art_204",
+          "art_205",
+          "art_206"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Da Gestão e Administração de Recursos, inclusive de Fundos de Investimento",
+         "node_id": "0155",
+         "start_index": 95,
+         "end_index": 95,
+         "artigos": [
+          "art_207",
+          "art_208",
+          "art_209",
+          "art_210",
+          "art_211"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Do Fundo de Garantia do Tempo de Serviço (FGTS) e dos demais FundosGarantidores e Executores de Políticas Públicas",
+         "node_id": "0156",
+         "start_index": 95,
+         "end_index": 96,
+         "artigos": [
+          "art_212"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VIII Dos Arranjos de Pagamento",
+         "node_id": "0157",
+         "start_index": 96,
+         "end_index": 99,
+         "nodes": [
+          {
+           "title": "f) em 2032 a 1,8% (um inteiro e oito décimos por cento); e",
+           "node_id": "0158",
+           "start_index": 96,
+           "end_index": 99,
+           "artigos": [
+            "art_213",
+            "art_214",
+            "art_215",
+            "art_216",
+            "art_217",
+            "art_218",
+            "art_218a",
+            "art_219",
+            "art_219a"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_213",
+          "art_214",
+          "art_215",
+          "art_216",
+          "art_217",
+          "art_218",
+          "art_218a",
+          "art_219",
+          "art_219a"
+         ]
+        },
+        {
+         "title": "Seção IX Das Atividades de Entidades Administradoras de Mercados Organizados,Infraestruturas de Mercado e Depositárias Centrais",
+         "node_id": "0159",
+         "start_index": 99,
+         "end_index": 99,
+         "artigos": [
+          "art_220",
+          "art_221",
+          "art_222"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção X Dos Seguros, Resseguros, Previdência Complementar e Capitalização",
+         "node_id": "0160",
+         "start_index": 99,
+         "end_index": 102,
+         "artigos": [
+          "art_223",
+          "art_224",
+          "art_225",
+          "art_226",
+          "art_227",
+          "art_228"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XI Dos Serviços de Ativos Virtuais",
+         "node_id": "0161",
+         "start_index": 102,
+         "end_index": 102,
+         "artigos": [
+          "art_229",
+          "art_230"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XII Da Importação de Serviços Financeiros",
+         "node_id": "0162",
+         "start_index": 102,
+         "end_index": 103,
+         "artigos": [
+          "art_231"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XIII Da Exportação de Serviços Financeiros",
+         "node_id": "0163",
+         "start_index": 103,
+         "end_index": 103,
+         "artigos": [
+          "art_232"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção XIV Disposições Transitórias",
+         "node_id": "0164",
+         "start_index": 103,
+         "end_index": 104,
+         "artigos": [
+          "art_233"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_180",
+        "art_181",
+        "art_182",
+        "art_183",
+        "art_184",
+        "art_185",
+        "art_186",
+        "art_187",
+        "art_188",
+        "art_189",
+        "art_190",
+        "art_191",
+        "art_192",
+        "art_193",
+        "art_194",
+        "art_195",
+        "art_196",
+        "art_197",
+        "art_198",
+        "art_199",
+        "art_200",
+        "art_201",
+        "art_202",
+        "art_203",
+        "art_204",
+        "art_205",
+        "art_206",
+        "art_207",
+        "art_208",
+        "art_209",
+        "art_210",
+        "art_211",
+        "art_212",
+        "art_213",
+        "art_214",
+        "art_215",
+        "art_216",
+        "art_217",
+        "art_218",
+        "art_218a",
+        "art_219",
+        "art_219a",
+        "art_220",
+        "art_221",
+        "art_222",
+        "art_223",
+        "art_224",
+        "art_225",
+        "art_226",
+        "art_227",
+        "art_228",
+        "art_229",
+        "art_230",
+        "art_231",
+        "art_232",
+        "art_233"
+       ]
+      },
+      {
+       "title": "CAPÍTULO III DOS PLANOS DE ASSISTÊNCIA À SAÚDE",
+       "node_id": "0165",
+       "start_index": 104,
+       "end_index": 106,
+       "artigos": [
+        "art_234",
+        "art_235",
+        "art_236",
+        "art_237",
+        "art_238",
+        "art_239",
+        "art_240",
+        "art_241",
+        "art_242",
+        "art_243"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO IV DOS CONCURSOS DE PROGNÓSTICOS",
+       "node_id": "0166",
+       "start_index": 106,
+       "end_index": 107,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0167",
+         "start_index": 106,
+         "end_index": 107,
+         "nodes": [
+          {
+           "title": "CAPÍTULO IV DOS CONCURSOS DE PROGNÓSTICOS",
+           "node_id": "0168",
+           "start_index": 106,
+           "end_index": 107,
+           "artigos": [
+            "art_244",
+            "art_245",
+            "art_246",
+            "art_247",
+            "art_248"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_244",
+          "art_245",
+          "art_246",
+          "art_247",
+          "art_248"
+         ]
+        },
+        {
+         "title": "Seção II Da Importação de Serviços de Concursos de Prognósticos",
+         "node_id": "0169",
+         "start_index": 107,
+         "end_index": 107,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Da Exportação de Serviços de Concursos de Prognósticos",
+         "node_id": "0170",
+         "start_index": 107,
+         "end_index": 107,
+         "artigos": [],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_244",
+        "art_245",
+        "art_246",
+        "art_247",
+        "art_248"
+       ]
+      },
+      {
+       "title": "CAPÍTULO V DOS BENS IMÓVEIS",
+       "node_id": "0171",
+       "start_index": 107,
+       "end_index": 117,
+       "nodes": [
+        {
+         "title": "Seção II Da Importação de Serviços de Concursos de Prognósticos",
+         "node_id": "0172",
+         "start_index": 107,
+         "end_index": 107,
+         "artigos": [
+          "art_249"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Da Exportação de Serviços de Concursos de Prognósticos",
+         "node_id": "0173",
+         "start_index": 107,
+         "end_index": 108,
+         "artigos": [
+          "art_250"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0174",
+         "start_index": 108,
+         "end_index": 110,
+         "artigos": [
+          "art_251",
+          "art_252",
+          "art_253"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Do Momento da Ocorrência do Fato Gerador",
+         "node_id": "0175",
+         "start_index": 110,
+         "end_index": 110,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Da Base de Cálculo",
+         "node_id": "0176",
+         "start_index": 110,
+         "end_index": 114,
+         "nodes": [
+          {
+           "title": "Subseção I Disposições Gerais",
+           "node_id": "0177",
+           "start_index": 110,
+           "end_index": 112,
+           "nodes": [
+            {
+             "title": "Seção II Do Momento da Ocorrência do Fato Gerador",
+             "node_id": "0178",
+             "start_index": 110,
+             "end_index": 110,
+             "artigos": [
+              "art_254"
+             ],
+             "ruido": false
+            },
+            {
+             "title": "Seção III Da Base de Cálculo",
+             "node_id": "0179",
+             "start_index": 110,
+             "end_index": 112,
+             "artigos": [
+              "art_255",
+              "art_256",
+              "art_257",
+              "art_258"
+             ],
+             "ruido": false
+            }
+           ],
+           "artigos": [
+            "art_254",
+            "art_255",
+            "art_256",
+            "art_257",
+            "art_258"
+           ]
+          },
+          {
+           "title": "Subseção II Do Redutor de Ajuste",
+           "node_id": "0180",
+           "start_index": 112,
+           "end_index": 114,
+           "nodes": [
+            {
+             "title": "a) ao valor de aquisição do imóvel atualizado nos termos do § 4º deste artigo; ou",
+             "node_id": "0181",
+             "start_index": 112,
+             "end_index": 114,
+             "artigos": [],
+             "ruido": true
+            }
+           ],
+           "artigos": []
+          },
+          {
+           "title": "Subseção III Do Redutor Social",
+           "node_id": "0182",
+           "start_index": 114,
+           "end_index": 114,
+           "artigos": [
+            "art_259",
+            "art_260"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_254",
+          "art_255",
+          "art_256",
+          "art_257",
+          "art_258",
+          "art_259",
+          "art_260"
+         ]
+        },
+        {
+         "title": "Seção IV Da Alíquota",
+         "node_id": "0183",
+         "start_index": 114,
+         "end_index": 115,
+         "artigos": [
+          "art_261"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Da Incorporação Imobiliária e do Parcelamento de Solo",
+         "node_id": "0184",
+         "start_index": 115,
+         "end_index": 115,
+         "artigos": [
+          "art_262"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Da Sujeição Passiva",
+         "node_id": "0185",
+         "start_index": 115,
+         "end_index": 116,
+         "artigos": [
+          "art_263",
+          "art_264"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Disposições Finais",
+         "node_id": "0186",
+         "start_index": 116,
+         "end_index": 117,
+         "artigos": [
+          "art_265",
+          "art_266",
+          "art_267",
+          "art_268",
+          "art_269",
+          "art_270"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_249",
+        "art_250",
+        "art_251",
+        "art_252",
+        "art_253",
+        "art_254",
+        "art_255",
+        "art_256",
+        "art_257",
+        "art_258",
+        "art_259",
+        "art_260",
+        "art_261",
+        "art_262",
+        "art_263",
+        "art_264",
+        "art_265",
+        "art_266",
+        "art_267",
+        "art_268",
+        "art_269",
+        "art_270"
+       ]
+      },
+      {
+       "title": "CAPÍTULO VI DAS SOCIEDADES COOPERATIVAS",
+       "node_id": "0187",
+       "start_index": 117,
+       "end_index": 117,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VII DOS BARES, RESTAURANTES, HOTELARIA, PARQUES DEDIVERSÃO E PARQUES TEMÁTICOS, TRANSPORTE COLETIVO DEPASSAGEIROS E AGÊNCIAS DE TURISMO",
+       "node_id": "0188",
+       "start_index": 117,
+       "end_index": 120,
+       "nodes": [
+        {
+         "title": "Seção I Dos Bares e Restaurantes",
+         "node_id": "0189",
+         "start_index": 117,
+         "end_index": 118,
+         "nodes": [
+          {
+           "title": "CAPÍTULO VI DAS SOCIEDADES COOPERATIVAS",
+           "node_id": "0190",
+           "start_index": 117,
+           "end_index": 118,
+           "artigos": [
+            "art_271",
+            "art_272",
+            "art_273",
+            "art_274",
+            "art_275",
+            "art_276"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_271",
+          "art_272",
+          "art_273",
+          "art_274",
+          "art_275",
+          "art_276"
+         ]
+        },
+        {
+         "title": "Seção II Da Hotelaria, Parques de Diversão e Parques Temáticos",
+         "node_id": "0191",
+         "start_index": 118,
+         "end_index": 119,
+         "artigos": [
+          "art_277",
+          "art_278",
+          "art_279",
+          "art_280",
+          "art_281",
+          "art_282",
+          "art_283"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Do Transporte Coletivo de Passageiros Rodoviário Intermunicipal e Interestadual,Ferroviário, Hidroviário e Aéreo Regional e Do Transporte de Carga Aéreo Regional",
+         "node_id": "0192",
+         "start_index": 119,
+         "end_index": 120,
+         "artigos": [
+          "art_284",
+          "art_285",
+          "art_286",
+          "art_287"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Das Agências de Turismo",
+         "node_id": "0193",
+         "start_index": 120,
+         "end_index": 120,
+         "artigos": [],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_271",
+        "art_272",
+        "art_273",
+        "art_274",
+        "art_275",
+        "art_276",
+        "art_277",
+        "art_278",
+        "art_279",
+        "art_280",
+        "art_281",
+        "art_282",
+        "art_283",
+        "art_284",
+        "art_285",
+        "art_286",
+        "art_287"
+       ]
+      },
+      {
+       "title": "CAPÍTULO VIII DA SOCIEDADE ANÔNIMA DO FUTEBOL - SAF",
+       "node_id": "0194",
+       "start_index": 120,
+       "end_index": 122,
+       "nodes": [
+        {
+         "title": "Seção IV Das Agências de Turismo",
+         "node_id": "0195",
+         "start_index": 120,
+         "end_index": 121,
+         "artigos": [
+          "art_288",
+          "art_289",
+          "art_290",
+          "art_291",
+          "art_292",
+          "art_293"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "a) metade desse percentual correspondente à alíquota estadual; e",
+         "node_id": "0196",
+         "start_index": 121,
+         "end_index": 122,
+         "artigos": [
+          "art_294"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_288",
+        "art_289",
+        "art_290",
+        "art_291",
+        "art_292",
+        "art_293",
+        "art_294"
+       ]
+      },
+      {
+       "title": "CAPÍTULO IX DAS MISSÕES DIPLOMÁTICAS, REPARTIÇÕES CONSULARESE OPERAÇÕES ALCANÇADAS POR TRATADO INTERNACIONAL",
+       "node_id": "0197",
+       "start_index": 122,
+       "end_index": 123,
+       "nodes": [
+        {
+         "title": "e) 1,2% (um inteiro e dois décimos por cento) em 2032; e",
+         "node_id": "0198",
+         "start_index": 122,
+         "end_index": 123,
+         "artigos": [
+          "art_295",
+          "art_296",
+          "art_297",
+          "art_298",
+          "art_299"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_295",
+        "art_296",
+        "art_297",
+        "art_298",
+        "art_299"
+       ]
+      },
+      {
+       "title": "CAPÍTULO X DISPOSIÇÕES COMUNS AOS REGIMES ESPECÍFICOS",
+       "node_id": "0199",
+       "start_index": 123,
+       "end_index": 124,
+       "artigos": [
+        "art_300",
+        "art_301",
+        "art_302",
+        "art_303",
+        "art_304",
+        "art_305",
+        "art_306",
+        "art_307"
+       ],
+       "ruido": false
+      }
+     ],
+     "artigos": [
+      "art_172",
+      "art_173",
+      "art_174",
+      "art_175",
+      "art_176",
+      "art_177",
+      "art_178",
+      "art_179",
+      "art_180",
+      "art_181",
+      "art_182",
+      "art_183",
+      "art_184",
+      "art_185",
+      "art_186",
+      "art_187",
+      "art_188",
+      "art_189",
+      "art_190",
+      "art_191",
+      "art_192",
+      "art_193",
+      "art_194",
+      "art_195",
+      "art_196",
+      "art_197",
+      "art_198",
+      "art_199",
+      "art_200",
+      "art_201",
+      "art_202",
+      "art_203",
+      "art_204",
+      "art_205",
+      "art_206",
+      "art_207",
+      "art_208",
+      "art_209",
+      "art_210",
+      "art_211",
+      "art_212",
+      "art_213",
+      "art_214",
+      "art_215",
+      "art_216",
+      "art_217",
+      "art_218",
+      "art_218a",
+      "art_219",
+      "art_219a",
+      "art_220",
+      "art_221",
+      "art_222",
+      "art_223",
+      "art_224",
+      "art_225",
+      "art_226",
+      "art_227",
+      "art_228",
+      "art_229",
+      "art_230",
+      "art_231",
+      "art_232",
+      "art_233",
+      "art_234",
+      "art_235",
+      "art_236",
+      "art_237",
+      "art_238",
+      "art_239",
+      "art_240",
+      "art_241",
+      "art_242",
+      "art_243",
+      "art_244",
+      "art_245",
+      "art_246",
+      "art_247",
+      "art_248",
+      "art_249",
+      "art_250",
+      "art_251",
+      "art_252",
+      "art_253",
+      "art_254",
+      "art_255",
+      "art_256",
+      "art_257",
+      "art_258",
+      "art_259",
+      "art_260",
+      "art_261",
+      "art_262",
+      "art_263",
+      "art_264",
+      "art_265",
+      "art_266",
+      "art_267",
+      "art_268",
+      "art_269",
+      "art_270",
+      "art_271",
+      "art_272",
+      "art_273",
+      "art_274",
+      "art_275",
+      "art_276",
+      "art_277",
+      "art_278",
+      "art_279",
+      "art_280",
+      "art_281",
+      "art_282",
+      "art_283",
+      "art_284",
+      "art_285",
+      "art_286",
+      "art_287",
+      "art_288",
+      "art_289",
+      "art_290",
+      "art_291",
+      "art_292",
+      "art_293",
+      "art_294",
+      "art_295",
+      "art_296",
+      "art_297",
+      "art_298",
+      "art_299",
+      "art_300",
+      "art_301",
+      "art_302",
+      "art_303",
+      "art_304",
+      "art_305",
+      "art_306",
+      "art_307"
+     ]
+    },
+    {
+     "title": "TÍTULO VI DOS REGIMES DIFERENCIADOS DA CBS",
+     "node_id": "0200",
+     "start_index": 124,
+     "end_index": 128,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DO PROGRAMA UNIVERSIDADE PARA TODOS - PROUNI",
+       "node_id": "0201",
+       "start_index": 124,
+       "end_index": 124,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO II DO REGIME AUTOMOTIVO",
+       "node_id": "0202",
+       "start_index": 124,
+       "end_index": 128,
+       "nodes": [
+        {
+         "title": "TÍTULO VI DOS REGIMES DIFERENCIADOS DA CBS",
+         "node_id": "0203",
+         "start_index": 124,
+         "end_index": 124,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "CAPÍTULO I DO PROGRAMA UNIVERSIDADE PARA TODOS - PROUNI",
+         "node_id": "0204",
+         "start_index": 124,
+         "end_index": 125,
+         "artigos": [
+          "art_308",
+          "art_309"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "c) ao cumprimento de processo produtivo básico; e",
+         "node_id": "0205",
+         "start_index": 125,
+         "end_index": 126,
+         "artigos": [
+          "art_310",
+          "art_311",
+          "art_312"
+         ],
+         "ruido": true
+        },
+        {
+         "title": "d) 12,80% (doze inteiros e oitenta centésimos por cento) no ano de 2031; e",
+         "node_id": "0206",
+         "start_index": 126,
+         "end_index": 128,
+         "artigos": [
+          "art_313",
+          "art_314",
+          "art_315",
+          "art_316"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_308",
+        "art_309",
+        "art_310",
+        "art_311",
+        "art_312",
+        "art_313",
+        "art_314",
+        "art_315",
+        "art_316"
+       ]
+      }
+     ],
+     "artigos": [
+      "art_308",
+      "art_309",
+      "art_310",
+      "art_311",
+      "art_312",
+      "art_313",
+      "art_314",
+      "art_315",
+      "art_316"
+     ]
+    },
+    {
+     "title": "TÍTULO VII DA ADMINISTRAÇÃO DO IBS E DA CBS",
+     "node_id": "0207",
+     "start_index": 128,
+     "end_index": 144,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DO REGULAMENTO DO IBS E DA CBS",
+       "node_id": "0208",
+       "start_index": 128,
+       "end_index": 128,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO II DA HARMONIZAÇÃO DO IBS E DA CBS",
+       "node_id": "0209",
+       "start_index": 128,
+       "end_index": 131,
+       "nodes": [
+        {
+         "title": "CAPÍTULO I DO REGULAMENTO DO IBS E DA CBS",
+         "node_id": "0210",
+         "start_index": 128,
+         "end_index": 128,
+         "artigos": [
+          "art_317",
+          "art_318",
+          "art_319"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "a) 4 (quatro) representantes da Procuradoria-Geral da Fazenda Nacional, indicados pela União; e",
+         "node_id": "0211",
+         "start_index": 128,
+         "end_index": 131,
+         "artigos": [
+          "art_320",
+          "art_321",
+          "art_322",
+          "art_323",
+          "art_323a",
+          "art_323b",
+          "art_323c",
+          "art_323d",
+          "art_323e",
+          "art_323f"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_317",
+        "art_318",
+        "art_319",
+        "art_320",
+        "art_321",
+        "art_322",
+        "art_323",
+        "art_323a",
+        "art_323b",
+        "art_323c",
+        "art_323d",
+        "art_323e",
+        "art_323f"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II-A DA INTEGRAÇÃO DO CONTENCIOSO DE IBS E CBS",
+       "node_id": "0212",
+       "start_index": 131,
+       "end_index": 133,
+       "artigos": [
+        "art_323g",
+        "art_323h",
+        "art_323i",
+        "art_323j",
+        "art_323k",
+        "art_323l",
+        "art_323m"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO III DA FISCALIZAÇÃO E DO LANÇAMENTO DE OFÍCIO",
+       "node_id": "0213",
+       "start_index": 133,
+       "end_index": 139,
+       "nodes": [
+        {
+         "title": "Seção I Da Competência para Fiscalizar",
+         "node_id": "0214",
+         "start_index": 133,
+         "end_index": 135,
+         "nodes": [
+          {
+           "title": "CAPÍTULO III DA FISCALIZAÇÃO E DO LANÇAMENTO DE OFÍCIO",
+           "node_id": "0215",
+           "start_index": 133,
+           "end_index": 135,
+           "nodes": [
+            {
+             "title": "Seção I Da Competência para Fiscalizar",
+             "node_id": "0216",
+             "start_index": 133,
+             "end_index": 135,
+             "nodes": [
+              {
+               "title": "Seção I Da Competência para Fiscalizar (intro)",
+               "start_index": 133,
+               "end_index": 134,
+               "node_id": "0217",
+               "artigos": [
+                "art_324",
+                "art_325"
+               ],
+               "ruido": false
+              },
+              {
+               "title": "c) obtidos com fundamento no disposto no art. 6º da Lei Complementar nº 105, de 10 de janeiro de",
+               "node_id": "0218",
+               "start_index": 134,
+               "end_index": 135,
+               "artigos": [
+                "art_326",
+                "art_327",
+                "art_327a"
+               ],
+               "ruido": true
+              }
+             ],
+             "artigos": [
+              "art_324",
+              "art_325",
+              "art_326",
+              "art_327",
+              "art_327a"
+             ]
+            }
+           ],
+           "artigos": [
+            "art_324",
+            "art_325",
+            "art_326",
+            "art_327",
+            "art_327a"
+           ]
+          }
+         ],
+         "artigos": [
+          "art_324",
+          "art_325",
+          "art_326",
+          "art_327",
+          "art_327a"
+         ]
+        },
+        {
+         "title": "Seção II Da Fiscalização e do Procedimento Fiscal",
+         "node_id": "0219",
+         "start_index": 135,
+         "end_index": 135,
+         "artigos": [
+          "art_328",
+          "art_329"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Do Lançamento de Ofício",
+         "node_id": "0220",
+         "start_index": 135,
+         "end_index": 136,
+         "artigos": [
+          "art_330",
+          "art_331"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IV Do Domicílio Tributário Eletrônico - DTE e das Intimações",
+         "node_id": "0221",
+         "start_index": 136,
+         "end_index": 136,
+         "artigos": [
+          "art_332",
+          "art_333",
+          "art_334"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Das Presunções Legais",
+         "node_id": "0222",
+         "start_index": 136,
+         "end_index": 137,
+         "artigos": [
+          "art_335"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Da Documentação Fiscal e Auxiliar",
+         "node_id": "0223",
+         "start_index": 137,
+         "end_index": 137,
+         "artigos": [
+          "art_336",
+          "art_337"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Do Regime Especial de Fiscalização - REF",
+         "node_id": "0224",
+         "start_index": 137,
+         "end_index": 139,
+         "artigos": [
+          "art_338",
+          "art_339",
+          "art_340",
+          "art_341"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_324",
+        "art_325",
+        "art_326",
+        "art_327",
+        "art_327a",
+        "art_328",
+        "art_329",
+        "art_330",
+        "art_331",
+        "art_332",
+        "art_333",
+        "art_334",
+        "art_335",
+        "art_336",
+        "art_337",
+        "art_338",
+        "art_339",
+        "art_340",
+        "art_341"
+       ]
+      },
+      {
+       "title": "CAPÍTULO IV DAS INFRAÇÕES E PENALIDADES RELATIVAS AO IBS E À CBS",
+       "node_id": "0225",
+       "start_index": 139,
+       "end_index": 144,
+       "nodes": [
+        {
+         "title": "CAPÍTULO IV DAS INFRAÇÕES E PENALIDADES RELATIVAS AO IBS E À CBS (intro)",
+         "start_index": 139,
+         "end_index": 140,
+         "node_id": "0226",
+         "artigos": [
+          "art_341a",
+          "art_341b",
+          "art_341c",
+          "art_341d",
+          "art_341e",
+          "art_341f"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "a) da ocorrência do fato gerador da obrigação tributária principal, sua natureza ou circunstâncias",
+         "node_id": "0227",
+         "start_index": 140,
+         "end_index": 144,
+         "artigos": [
+          "art_341g",
+          "art_341h"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_341a",
+        "art_341b",
+        "art_341c",
+        "art_341d",
+        "art_341e",
+        "art_341f",
+        "art_341g",
+        "art_341h"
+       ]
+      }
+     ],
+     "artigos": [
+      "art_317",
+      "art_318",
+      "art_319",
+      "art_320",
+      "art_321",
+      "art_322",
+      "art_323",
+      "art_323a",
+      "art_323b",
+      "art_323c",
+      "art_323d",
+      "art_323e",
+      "art_323f",
+      "art_323g",
+      "art_323h",
+      "art_323i",
+      "art_323j",
+      "art_323k",
+      "art_323l",
+      "art_323m",
+      "art_324",
+      "art_325",
+      "art_326",
+      "art_327",
+      "art_327a",
+      "art_328",
+      "art_329",
+      "art_330",
+      "art_331",
+      "art_332",
+      "art_333",
+      "art_334",
+      "art_335",
+      "art_336",
+      "art_337",
+      "art_338",
+      "art_339",
+      "art_340",
+      "art_341",
+      "art_341a",
+      "art_341b",
+      "art_341c",
+      "art_341d",
+      "art_341e",
+      "art_341f",
+      "art_341g",
+      "art_341h"
+     ]
+    },
+    {
+     "title": "TÍTULO VIII DA TRANSIÇÃO PARA O IBS E PARA A CBS",
+     "node_id": "0228",
+     "start_index": 144,
+     "end_index": 177,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DA FIXAÇÃO DAS ALÍQUOTAS DURANTE A TRANSIÇÃO",
+       "node_id": "0229",
+       "start_index": 144,
+       "end_index": 159,
+       "nodes": [
+        {
+         "title": "Seção I Da Fixação das Alíquotas do IBS durante a Transição",
+         "node_id": "0230",
+         "start_index": 144,
+         "end_index": 145,
+         "artigos": [
+          "art_342",
+          "art_343",
+          "art_344"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Da Fixação das Alíquotas da CBS durante a Transição",
+         "node_id": "0231",
+         "start_index": 145,
+         "end_index": 145,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Disposições Comuns ao IBS e à CBS em 2026",
+         "node_id": "0232",
+         "start_index": 145,
+         "end_index": 146,
+         "nodes": [
+          {
+           "title": "Seção II Da Fixação das Alíquotas da CBS durante a Transição",
+           "node_id": "0233",
+           "start_index": 145,
+           "end_index": 145,
+           "artigos": [
+            "art_345",
+            "art_346",
+            "art_347",
+            "art_348"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "a) compensado com qualquer outro tributo federal, nos termos da legislação; ou",
+           "node_id": "0234",
+           "start_index": 145,
+           "end_index": 146,
+           "artigos": [],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_345",
+          "art_346",
+          "art_347",
+          "art_348"
+         ]
+        },
+        {
+         "title": "Seção IV Da Fixação das Alíquotas de Referência de 2027 a 2035",
+         "node_id": "0235",
+         "start_index": 146,
+         "end_index": 159,
+         "nodes": [
+          {
+           "title": "Subseção I Disposições Gerais",
+           "node_id": "0236",
+           "start_index": 146,
+           "end_index": 148,
+           "artigos": [
+            "art_349",
+            "art_350"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção II Da Receita de Referência",
+           "node_id": "0237",
+           "start_index": 148,
+           "end_index": 149,
+           "nodes": [
+            {
+             "title": "b) do imposto previsto no art. 153, inciso IV, da Constituição Federal; e",
+             "node_id": "0238",
+             "start_index": 148,
+             "end_index": 149,
+             "artigos": [],
+             "ruido": true
+            }
+           ],
+           "artigos": []
+          },
+          {
+           "title": "Subseção III Do Cálculo das Alíquotas de Referência",
+           "node_id": "0239",
+           "start_index": 149,
+           "end_index": 150,
+           "artigos": [
+            "art_351"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção IV Do Cálculo da Alíquota de Referência da CBS",
+           "node_id": "0240",
+           "start_index": 150,
+           "end_index": 153,
+           "artigos": [
+            "art_352",
+            "art_353",
+            "art_354",
+            "art_355",
+            "art_356",
+            "art_357",
+            "art_358",
+            "art_359"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção V Do Cálculo das Alíquotas de Referência do IBS",
+           "node_id": "0241",
+           "start_index": 153,
+           "end_index": 157,
+           "artigos": [
+            "art_360",
+            "art_361",
+            "art_362",
+            "art_363",
+            "art_364",
+            "art_365"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção VI Da Fixação das Alíquotas de Referência em 2034 e 2035",
+           "node_id": "0242",
+           "start_index": 157,
+           "end_index": 157,
+           "artigos": [
+            "art_366"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "Subseção VII Do Limite para as Alíquotas de Referência em 2030 e 2035",
+           "node_id": "0243",
+           "start_index": 157,
+           "end_index": 159,
+           "artigos": [
+            "art_367",
+            "art_368",
+            "art_369"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_349",
+          "art_350",
+          "art_351",
+          "art_352",
+          "art_353",
+          "art_354",
+          "art_355",
+          "art_356",
+          "art_357",
+          "art_358",
+          "art_359",
+          "art_360",
+          "art_361",
+          "art_362",
+          "art_363",
+          "art_364",
+          "art_365",
+          "art_366",
+          "art_367",
+          "art_368",
+          "art_369"
+         ]
+        },
+        {
+         "title": "Seção V Do Redutor a ser aplicado sobre as Alíquotas da CBS e do IBS nas OperaçõesContratadas pela Administração Pública de 2027 a 2033",
+         "node_id": "0244",
+         "start_index": 159,
+         "end_index": 159,
+         "artigos": [
+          "art_370"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_342",
+        "art_343",
+        "art_344",
+        "art_345",
+        "art_346",
+        "art_347",
+        "art_348",
+        "art_349",
+        "art_350",
+        "art_351",
+        "art_352",
+        "art_353",
+        "art_354",
+        "art_355",
+        "art_356",
+        "art_357",
+        "art_358",
+        "art_359",
+        "art_360",
+        "art_361",
+        "art_362",
+        "art_363",
+        "art_364",
+        "art_365",
+        "art_366",
+        "art_367",
+        "art_368",
+        "art_369",
+        "art_370"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II DO LIMITE PARA REDUÇÃO DAS ALÍQUOTAS DO IBS DE 2029 A2077",
+       "node_id": "0245",
+       "start_index": 159,
+       "end_index": 160,
+       "artigos": [
+        "art_371"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO III DA TRANSIÇÃO APLICÁVEL AO REGIME DE COMPRASGOVERNAMENTAIS",
+       "node_id": "0246",
+       "start_index": 160,
+       "end_index": 160,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO IV DO REEQUILÍBRIO DE CONTRATOS ADMINISTRATIVOS",
+       "node_id": "0247",
+       "start_index": 160,
+       "end_index": 162,
+       "nodes": [
+        {
+         "title": "CAPÍTULO III DA TRANSIÇÃO APLICÁVEL AO REGIME DE COMPRAS GOVERNAMENTAIS",
+         "node_id": "0248",
+         "start_index": 160,
+         "end_index": 161,
+         "artigos": [
+          "art_372",
+          "art_373",
+          "art_374",
+          "art_375",
+          "art_376"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "e) transferência a uma das partes de custos ou encargos originalmente atribuídos à outra; ou",
+         "node_id": "0249",
+         "start_index": 161,
+         "end_index": 162,
+         "artigos": [
+          "art_377"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_372",
+        "art_373",
+        "art_374",
+        "art_375",
+        "art_376",
+        "art_377"
+       ]
+      },
+      {
+       "title": "CAPÍTULO V DA UTILIZAÇÃO DO SALDO CREDOR DO PIS E DA COFINS",
+       "node_id": "0250",
+       "start_index": 162,
+       "end_index": 164,
+       "nodes": [
+        {
+         "title": "CAPÍTULO V DA UTILIZAÇÃO DO SALDO CREDOR DO PIS E DA COFINS (intro)",
+         "start_index": 162,
+         "end_index": 163,
+         "node_id": "0251",
+         "artigos": [
+          "art_378",
+          "art_379",
+          "art_380",
+          "art_381"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "d) art. 53 da Lei nº 9.532, de 10 de dezembro de 1997; e",
+         "node_id": "0252",
+         "start_index": 163,
+         "end_index": 164,
+         "artigos": [
+          "art_382",
+          "art_383"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_378",
+        "art_379",
+        "art_380",
+        "art_381",
+        "art_382",
+        "art_383"
+       ]
+      },
+      {
+       "title": "CAPÍTULO VI DOS CRITÉRIOS, LIMITES E PROCEDIMENTOS RELATIVOS ÀCOMPENSAÇÃO DE BENEFÍCIOS FISCAIS OU FINANCEIRO-FISCAIS DOICMS",
+       "node_id": "0253",
+       "start_index": 164,
+       "end_index": 174,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0254",
+         "start_index": 164,
+         "end_index": 166,
+         "nodes": [
+          {
+           "title": "Seção I Disposições Gerais (intro)",
+           "start_index": 164,
+           "end_index": 165,
+           "node_id": "0255",
+           "artigos": [
+            "art_384",
+            "art_385"
+           ],
+           "ruido": false
+          },
+          {
+           "title": "b) estabelecem a geração de novos empregos; ou",
+           "node_id": "0256",
+           "start_index": 165,
+           "end_index": 166,
+           "artigos": [],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_384",
+          "art_385"
+         ]
+        },
+        {
+         "title": "Seção II Das Competências Atribuídas à RFB",
+         "node_id": "0257",
+         "start_index": 166,
+         "end_index": 167,
+         "artigos": [
+          "art_386",
+          "art_387",
+          "art_388",
+          "art_389"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Da Habilitação do Requerente à Compensação",
+         "node_id": "0258",
+         "start_index": 167,
+         "end_index": 168,
+         "nodes": [
+          {
+           "title": "c) cujo prazo de fruição não ultrapasse a data de 31 de dezembro de 2032; e",
+           "node_id": "0259",
+           "start_index": 167,
+           "end_index": 168,
+           "artigos": [
+            "art_390"
+           ],
+           "ruido": true
+          }
+         ],
+         "artigos": [
+          "art_390"
+         ]
+        },
+        {
+         "title": "Seção IV Da Demonstração e Reconhecimento do Crédito Apurado e da Revisão daRegularidade do Crédito Retido",
+         "node_id": "0260",
+         "start_index": 168,
+         "end_index": 169,
+         "artigos": [
+          "art_391",
+          "art_392"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção V Da Autorregularização das Informações Prestadas",
+         "node_id": "0261",
+         "start_index": 169,
+         "end_index": 170,
+         "artigos": [
+          "art_393"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VI Dos Procedimentos de Revisão da Apuração do Crédito e do Rito Processual",
+         "node_id": "0262",
+         "start_index": 170,
+         "end_index": 171,
+         "artigos": [
+          "art_394"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VII Da Constituição do Crédito da União",
+         "node_id": "0263",
+         "start_index": 171,
+         "end_index": 172,
+         "artigos": [
+          "art_395"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção VIII Da Representação Para Fins Penais",
+         "node_id": "0264",
+         "start_index": 172,
+         "end_index": 172,
+         "artigos": [
+          "art_396"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção IX Da Comunicação e da Representação Fiscal pelas Unidades Federadas",
+         "node_id": "0265",
+         "start_index": 172,
+         "end_index": 172,
+         "artigos": [
+          "art_397",
+          "art_398"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção X Disposições Finais",
+         "node_id": "0266",
+         "start_index": 172,
+         "end_index": 174,
+         "artigos": [
+          "art_399",
+          "art_400",
+          "art_401",
+          "art_402",
+          "art_403",
+          "art_404",
+          "art_405"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_384",
+        "art_385",
+        "art_386",
+        "art_387",
+        "art_388",
+        "art_389",
+        "art_390",
+        "art_391",
+        "art_392",
+        "art_393",
+        "art_394",
+        "art_395",
+        "art_396",
+        "art_397",
+        "art_398",
+        "art_399",
+        "art_400",
+        "art_401",
+        "art_402",
+        "art_403",
+        "art_404",
+        "art_405"
+       ]
+      },
+      {
+       "title": "CAPÍTULO VII DA TRANSIÇÃO APLICÁVEL AOS BENS DE CAPITAL",
+       "node_id": "0267",
+       "start_index": 174,
+       "end_index": 176,
+       "artigos": [
+        "art_406",
+        "art_407"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VIII disposições finais",
+       "node_id": "0268",
+       "start_index": 176,
+       "end_index": 177,
+       "artigos": [
+        "art_408"
+       ],
+       "ruido": false
+      }
+     ],
+     "artigos": [
+      "art_342",
+      "art_343",
+      "art_344",
+      "art_345",
+      "art_346",
+      "art_347",
+      "art_348",
+      "art_349",
+      "art_350",
+      "art_351",
+      "art_352",
+      "art_353",
+      "art_354",
+      "art_355",
+      "art_356",
+      "art_357",
+      "art_358",
+      "art_359",
+      "art_360",
+      "art_361",
+      "art_362",
+      "art_363",
+      "art_364",
+      "art_365",
+      "art_366",
+      "art_367",
+      "art_368",
+      "art_369",
+      "art_370",
+      "art_371",
+      "art_372",
+      "art_373",
+      "art_374",
+      "art_375",
+      "art_376",
+      "art_377",
+      "art_378",
+      "art_379",
+      "art_380",
+      "art_381",
+      "art_382",
+      "art_383",
+      "art_384",
+      "art_385",
+      "art_386",
+      "art_387",
+      "art_388",
+      "art_389",
+      "art_390",
+      "art_391",
+      "art_392",
+      "art_393",
+      "art_394",
+      "art_395",
+      "art_396",
+      "art_397",
+      "art_398",
+      "art_399",
+      "art_400",
+      "art_401",
+      "art_402",
+      "art_403",
+      "art_404",
+      "art_405",
+      "art_406",
+      "art_407",
+      "art_408"
+     ]
+    }
+   ],
+   "artigos": [
+    "art_1",
+    "art_2",
+    "art_3",
+    "art_4",
+    "art_5",
+    "art_6",
+    "art_7",
+    "art_7a",
+    "art_8",
+    "art_9",
+    "art_10",
+    "art_11",
+    "art_12",
+    "art_13",
+    "art_14",
+    "art_15",
+    "art_16",
+    "art_17",
+    "art_18",
+    "art_19",
+    "art_20",
+    "art_21",
+    "art_22",
+    "art_23",
+    "art_24",
+    "art_25",
+    "art_26",
+    "art_27",
+    "art_28",
+    "art_29",
+    "art_30",
+    "art_31",
+    "art_32",
+    "art_33",
+    "art_34",
+    "art_35",
+    "art_36",
+    "art_37",
+    "art_38",
+    "art_39",
+    "art_40",
+    "art_41",
+    "art_42",
+    "art_43",
+    "art_44",
+    "art_45",
+    "art_46",
+    "art_47",
+    "art_48",
+    "art_49",
+    "art_50",
+    "art_51",
+    "art_52",
+    "art_53",
+    "art_54",
+    "art_55",
+    "art_56",
+    "art_57",
+    "art_58",
+    "art_59",
+    "art_60",
+    "art_61",
+    "art_62",
+    "art_63",
+    "art_64",
+    "art_65",
+    "art_66",
+    "art_67",
+    "art_68",
+    "art_69",
+    "art_70",
+    "art_71",
+    "art_72",
+    "art_73",
+    "art_74",
+    "art_75",
+    "art_76",
+    "art_77",
+    "art_78",
+    "art_79",
+    "art_80",
+    "art_81",
+    "art_81a",
+    "art_82",
+    "art_83",
+    "art_84",
+    "art_85",
+    "art_86",
+    "art_87",
+    "art_88",
+    "art_89",
+    "art_90",
+    "art_91",
+    "art_92",
+    "art_93",
+    "art_94",
+    "art_98",
+    "art_98a",
+    "art_98b",
+    "art_99",
+    "art_100",
+    "art_101",
+    "art_102",
+    "art_103",
+    "art_104",
+    "art_95",
+    "art_96",
+    "art_97",
+    "art_105",
+    "art_106",
+    "art_107",
+    "art_108",
+    "art_109",
+    "art_110",
+    "art_111",
+    "art_112",
+    "art_113",
+    "art_114",
+    "art_115",
+    "art_116",
+    "art_117",
+    "art_118",
+    "art_119",
+    "art_120",
+    "art_121",
+    "art_122",
+    "art_123",
+    "art_124",
+    "art_125",
+    "art_126",
+    "art_127",
+    "art_128",
+    "art_129",
+    "art_130",
+    "art_131",
+    "art_132",
+    "art_133",
+    "art_134",
+    "art_135",
+    "art_136",
+    "art_137",
+    "art_138",
+    "art_139",
+    "art_140",
+    "art_141",
+    "art_142",
+    "art_143",
+    "art_144",
+    "art_145",
+    "art_146",
+    "art_147",
+    "art_148",
+    "art_149",
+    "art_150",
+    "art_151",
+    "art_152",
+    "art_153",
+    "art_154",
+    "art_155",
+    "art_156",
+    "art_157",
+    "art_158",
+    "art_159",
+    "art_160",
+    "art_161",
+    "art_162",
+    "art_163",
+    "art_164",
+    "art_165",
+    "art_166",
+    "art_167",
+    "art_168",
+    "art_169",
+    "art_170",
+    "art_171",
+    "art_172",
+    "art_173",
+    "art_174",
+    "art_175",
+    "art_176",
+    "art_177",
+    "art_178",
+    "art_179",
+    "art_180",
+    "art_181",
+    "art_182",
+    "art_183",
+    "art_184",
+    "art_185",
+    "art_186",
+    "art_187",
+    "art_188",
+    "art_189",
+    "art_190",
+    "art_191",
+    "art_192",
+    "art_193",
+    "art_194",
+    "art_195",
+    "art_196",
+    "art_197",
+    "art_198",
+    "art_199",
+    "art_200",
+    "art_201",
+    "art_202",
+    "art_203",
+    "art_204",
+    "art_205",
+    "art_206",
+    "art_207",
+    "art_208",
+    "art_209",
+    "art_210",
+    "art_211",
+    "art_212",
+    "art_213",
+    "art_214",
+    "art_215",
+    "art_216",
+    "art_217",
+    "art_218",
+    "art_218a",
+    "art_219",
+    "art_219a",
+    "art_220",
+    "art_221",
+    "art_222",
+    "art_223",
+    "art_224",
+    "art_225",
+    "art_226",
+    "art_227",
+    "art_228",
+    "art_229",
+    "art_230",
+    "art_231",
+    "art_232",
+    "art_233",
+    "art_234",
+    "art_235",
+    "art_236",
+    "art_237",
+    "art_238",
+    "art_239",
+    "art_240",
+    "art_241",
+    "art_242",
+    "art_243",
+    "art_244",
+    "art_245",
+    "art_246",
+    "art_247",
+    "art_248",
+    "art_249",
+    "art_250",
+    "art_251",
+    "art_252",
+    "art_253",
+    "art_254",
+    "art_255",
+    "art_256",
+    "art_257",
+    "art_258",
+    "art_259",
+    "art_260",
+    "art_261",
+    "art_262",
+    "art_263",
+    "art_264",
+    "art_265",
+    "art_266",
+    "art_267",
+    "art_268",
+    "art_269",
+    "art_270",
+    "art_271",
+    "art_272",
+    "art_273",
+    "art_274",
+    "art_275",
+    "art_276",
+    "art_277",
+    "art_278",
+    "art_279",
+    "art_280",
+    "art_281",
+    "art_282",
+    "art_283",
+    "art_284",
+    "art_285",
+    "art_286",
+    "art_287",
+    "art_288",
+    "art_289",
+    "art_290",
+    "art_291",
+    "art_292",
+    "art_293",
+    "art_294",
+    "art_295",
+    "art_296",
+    "art_297",
+    "art_298",
+    "art_299",
+    "art_300",
+    "art_301",
+    "art_302",
+    "art_303",
+    "art_304",
+    "art_305",
+    "art_306",
+    "art_307",
+    "art_308",
+    "art_309",
+    "art_310",
+    "art_311",
+    "art_312",
+    "art_313",
+    "art_314",
+    "art_315",
+    "art_316",
+    "art_317",
+    "art_318",
+    "art_319",
+    "art_320",
+    "art_321",
+    "art_322",
+    "art_323",
+    "art_323a",
+    "art_323b",
+    "art_323c",
+    "art_323d",
+    "art_323e",
+    "art_323f",
+    "art_323g",
+    "art_323h",
+    "art_323i",
+    "art_323j",
+    "art_323k",
+    "art_323l",
+    "art_323m",
+    "art_324",
+    "art_325",
+    "art_326",
+    "art_327",
+    "art_327a",
+    "art_328",
+    "art_329",
+    "art_330",
+    "art_331",
+    "art_332",
+    "art_333",
+    "art_334",
+    "art_335",
+    "art_336",
+    "art_337",
+    "art_338",
+    "art_339",
+    "art_340",
+    "art_341",
+    "art_341a",
+    "art_341b",
+    "art_341c",
+    "art_341d",
+    "art_341e",
+    "art_341f",
+    "art_341g",
+    "art_341h",
+    "art_342",
+    "art_343",
+    "art_344",
+    "art_345",
+    "art_346",
+    "art_347",
+    "art_348",
+    "art_349",
+    "art_350",
+    "art_351",
+    "art_352",
+    "art_353",
+    "art_354",
+    "art_355",
+    "art_356",
+    "art_357",
+    "art_358",
+    "art_359",
+    "art_360",
+    "art_361",
+    "art_362",
+    "art_363",
+    "art_364",
+    "art_365",
+    "art_366",
+    "art_367",
+    "art_368",
+    "art_369",
+    "art_370",
+    "art_371",
+    "art_372",
+    "art_373",
+    "art_374",
+    "art_375",
+    "art_376",
+    "art_377",
+    "art_378",
+    "art_379",
+    "art_380",
+    "art_381",
+    "art_382",
+    "art_383",
+    "art_384",
+    "art_385",
+    "art_386",
+    "art_387",
+    "art_388",
+    "art_389",
+    "art_390",
+    "art_391",
+    "art_392",
+    "art_393",
+    "art_394",
+    "art_395",
+    "art_396",
+    "art_397",
+    "art_398",
+    "art_399",
+    "art_400",
+    "art_401",
+    "art_402",
+    "art_403",
+    "art_404",
+    "art_405",
+    "art_406",
+    "art_407",
+    "art_408"
+   ]
+  },
+  {
+   "title": "LIVRO II DO IMPOSTO SELETIVO",
+   "node_id": "0269",
+   "start_index": 177,
+   "end_index": 185,
+   "nodes": [
+    {
+     "title": "TÍTULO I DISPOSIÇÕES PRELIMINARES",
+     "node_id": "0270",
+     "start_index": 177,
+     "end_index": 178,
+     "nodes": [
+      {
+       "title": "a) os referidos impostos não incidirão na operação; e",
+       "node_id": "0271",
+       "start_index": 177,
+       "end_index": 178,
+       "artigos": [
+        "art_409",
+        "art_410",
+        "art_411"
+       ],
+       "ruido": true
+      }
+     ],
+     "artigos": [
+      "art_409",
+      "art_410",
+      "art_411"
+     ]
+    },
+    {
+     "title": "TÍTULO II Das normas gerais dO IMPOSTO SELETIVO",
+     "node_id": "0272",
+     "start_index": 178,
+     "end_index": 184,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DO MOMENTO DE OCORRÊNCIA DO FATO GERADOR",
+       "node_id": "0273",
+       "start_index": 178,
+       "end_index": 178,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO II DA NÃO INCIDÊNCIA",
+       "node_id": "0274",
+       "start_index": 178,
+       "end_index": 178,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO III DA BASE DE CÁLCULO",
+       "node_id": "0275",
+       "start_index": 178,
+       "end_index": 180,
+       "nodes": [
+        {
+         "title": "CAPÍTULO I DO MOMENTO DE OCORRÊNCIA DO FATO GERADOR",
+         "node_id": "0276",
+         "start_index": 178,
+         "end_index": 178,
+         "artigos": [
+          "art_412"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "CAPÍTULO II DA NÃO INCIDÊNCIA",
+         "node_id": "0277",
+         "start_index": 178,
+         "end_index": 178,
+         "artigos": [
+          "art_413",
+          "art_414"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "b) extração de bem mineral; ou",
+         "node_id": "0278",
+         "start_index": 178,
+         "end_index": 180,
+         "artigos": [
+          "art_415",
+          "art_416",
+          "art_417",
+          "art_418"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_412",
+        "art_413",
+        "art_414",
+        "art_415",
+        "art_416",
+        "art_417",
+        "art_418"
+       ]
+      },
+      {
+       "title": "CAPÍTULO IV DAS ALÍQUOTAS",
+       "node_id": "0279",
+       "start_index": 180,
+       "end_index": 181,
+       "nodes": [
+        {
+         "title": "Seção I Dos Veículos",
+         "node_id": "0280",
+         "start_index": 180,
+         "end_index": 180,
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Das Aeronaves e Embarcações",
+         "node_id": "0281",
+         "start_index": 180,
+         "end_index": 181,
+         "nodes": [
+          {
+           "title": "CAPÍTULO IV DAS ALÍQUOTAS",
+           "node_id": "0282",
+           "start_index": 180,
+           "end_index": 180,
+           "artigos": [],
+           "ruido": false
+          },
+          {
+           "title": "Seção I Dos Veículos",
+           "node_id": "0283",
+           "start_index": 180,
+           "end_index": 181,
+           "artigos": [
+            "art_419",
+            "art_420",
+            "art_421"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_419",
+          "art_420",
+          "art_421"
+         ]
+        },
+        {
+         "title": "Seção III Dos Demais Produtos Sujeitos ao Imposto Seletivo",
+         "node_id": "0284",
+         "start_index": 181,
+         "end_index": 181,
+         "artigos": [],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_419",
+        "art_420",
+        "art_421"
+       ]
+      },
+      {
+       "title": "CAPÍTULO V DA SUJEIÇÃO PASSIVA",
+       "node_id": "0285",
+       "start_index": 181,
+       "end_index": 182,
+       "nodes": [
+        {
+         "title": "Seção III Dos Demais Produtos Sujeitos ao Imposto Seletivo",
+         "node_id": "0286",
+         "start_index": 181,
+         "end_index": 182,
+         "artigos": [
+          "art_422",
+          "art_423",
+          "art_424",
+          "art_425"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_422",
+        "art_423",
+        "art_424",
+        "art_425"
+       ]
+      },
+      {
+       "title": "CAPÍTULO VI DA EMPRESA COMERCIAL EXPORTADORA",
+       "node_id": "0287",
+       "start_index": 182,
+       "end_index": 183,
+       "artigos": [
+        "art_426",
+        "art_427"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VII DA PENA DE PERDIMENTO",
+       "node_id": "0288",
+       "start_index": 183,
+       "end_index": 183,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO VIII DA APURAÇÃO",
+       "node_id": "0289",
+       "start_index": 183,
+       "end_index": 183,
+       "artigos": [],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO IX DO PAGAMENTO",
+       "node_id": "0290",
+       "start_index": 183,
+       "end_index": 184,
+       "nodes": [
+        {
+         "title": "CAPÍTULO VII DA PENA DE PERDIMENTO",
+         "node_id": "0291",
+         "start_index": 183,
+         "end_index": 183,
+         "artigos": [
+          "art_428",
+          "art_429"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "CAPÍTULO VIII DA APURAÇÃO",
+         "node_id": "0292",
+         "start_index": 183,
+         "end_index": 184,
+         "artigos": [
+          "art_430",
+          "art_431",
+          "art_432",
+          "art_433"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_428",
+        "art_429",
+        "art_430",
+        "art_431",
+        "art_432",
+        "art_433"
+       ]
+      }
+     ],
+     "artigos": [
+      "art_412",
+      "art_413",
+      "art_414",
+      "art_415",
+      "art_416",
+      "art_417",
+      "art_418",
+      "art_419",
+      "art_420",
+      "art_421",
+      "art_422",
+      "art_423",
+      "art_424",
+      "art_425",
+      "art_426",
+      "art_427",
+      "art_428",
+      "art_429",
+      "art_430",
+      "art_431",
+      "art_432",
+      "art_433"
+     ]
+    },
+    {
+     "title": "TÍTULO III DO IMPOSTO SELETIVO SOBRE IMPORTAÇÕES",
+     "node_id": "0293",
+     "start_index": 184,
+     "end_index": 184,
+     "artigos": [],
+     "ruido": false
+    },
+    {
+     "title": "TÍTULO IV DISPOSIÇÕES FINAIS",
+     "node_id": "0294",
+     "start_index": 184,
+     "end_index": 185,
+     "nodes": [
+      {
+       "title": "TÍTULO III DO IMPOSTO SELETIVO SOBRE IMPORTAÇÕES",
+       "node_id": "0295",
+       "start_index": 184,
+       "end_index": 185,
+       "artigos": [
+        "art_434",
+        "art_435",
+        "art_436",
+        "art_437",
+        "art_438"
+       ],
+       "ruido": false
+      }
+     ],
+     "artigos": [
+      "art_434",
+      "art_435",
+      "art_436",
+      "art_437",
+      "art_438"
+     ]
+    }
+   ],
+   "artigos": [
+    "art_409",
+    "art_410",
+    "art_411",
+    "art_412",
+    "art_413",
+    "art_414",
+    "art_415",
+    "art_416",
+    "art_417",
+    "art_418",
+    "art_419",
+    "art_420",
+    "art_421",
+    "art_422",
+    "art_423",
+    "art_424",
+    "art_425",
+    "art_426",
+    "art_427",
+    "art_428",
+    "art_429",
+    "art_430",
+    "art_431",
+    "art_432",
+    "art_433",
+    "art_434",
+    "art_435",
+    "art_436",
+    "art_437",
+    "art_438"
+   ]
+  },
+  {
+   "title": "LIVRO III DAS DEMAIS DISPOSIÇÕES",
+   "node_id": "0296",
+   "start_index": 185,
+   "end_index": 241,
+   "nodes": [
+    {
+     "title": "TÍTULO I DA ZONA FRANCA DE MANAUS, DAS ÁREAS DE LIVRECOMÉRCIO E DA DEVOLUÇÃO DO IBS E DA CBS AO TURISTAESTRANGEIRO",
+     "node_id": "0297",
+     "start_index": 185,
+     "end_index": 197,
+     "nodes": [
+      {
+       "title": "CAPÍTULO I DA ZONA FRANCA DE MANAUS",
+       "node_id": "0298",
+       "start_index": 185,
+       "end_index": 191,
+       "nodes": [
+        {
+         "title": "LIVRO III DAS DEMAIS DISPOSIÇÕES",
+         "node_id": "0299",
+         "start_index": 185,
+         "end_index": 190,
+         "artigos": [
+          "art_439",
+          "art_440",
+          "art_441",
+          "art_442",
+          "art_443",
+          "art_444",
+          "art_445",
+          "art_446",
+          "art_447",
+          "art_448",
+          "art_449",
+          "art_450",
+          "art_451",
+          "art_452",
+          "art_453",
+          "art_454",
+          "art_455"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "d) a redução deverá ser feita de forma gradual, limitada a, no máximo, cinco pontos percentuais por",
+         "node_id": "0300",
+         "start_index": 190,
+         "end_index": 191,
+         "artigos": [
+          "art_456",
+          "art_457"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_439",
+        "art_440",
+        "art_441",
+        "art_442",
+        "art_443",
+        "art_444",
+        "art_445",
+        "art_446",
+        "art_447",
+        "art_448",
+        "art_449",
+        "art_450",
+        "art_451",
+        "art_452",
+        "art_453",
+        "art_454",
+        "art_455",
+        "art_456",
+        "art_457"
+       ]
+      },
+      {
+       "title": "CAPÍTULO II DAS ÁREAS DE LIVRE COMÉRCIO",
+       "node_id": "0301",
+       "start_index": 191,
+       "end_index": 194,
+       "artigos": [
+        "art_458",
+        "art_459",
+        "art_460",
+        "art_461",
+        "art_462",
+        "art_463",
+        "art_464",
+        "art_465",
+        "art_466",
+        "art_467",
+        "art_468",
+        "art_469",
+        "art_470"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO III DA DEVOLUÇÃO DO IBS E DA CBS AO TURISTAESTRANGEIRO",
+       "node_id": "0302",
+       "start_index": 194,
+       "end_index": 195,
+       "artigos": [
+        "art_471"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO IV DO PROGRAMA NACIONAL DE CONFORMIDADETRIBUTÁRIA",
+       "node_id": "0303",
+       "start_index": 195,
+       "end_index": 196,
+       "artigos": [
+        "art_471a",
+        "art_471b",
+        "art_471c"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO V DAS PENALIDADES ADMINISTRATIVAS NÃO TRIBUTÁRIASRELATIVAS AO RECOLHIMENTO DOS TRIBUTOS NA LIQUIDAÇÃOFINANCEIRA (SPLIT PAYMENT)",
+       "node_id": "0304",
+       "start_index": 196,
+       "end_index": 197,
+       "artigos": [
+        "art_471d",
+        "art_471e"
+       ],
+       "ruido": false
+      }
+     ],
+     "artigos": [
+      "art_439",
+      "art_440",
+      "art_441",
+      "art_442",
+      "art_443",
+      "art_444",
+      "art_445",
+      "art_446",
+      "art_447",
+      "art_448",
+      "art_449",
+      "art_450",
+      "art_451",
+      "art_452",
+      "art_453",
+      "art_454",
+      "art_455",
+      "art_456",
+      "art_457",
+      "art_458",
+      "art_459",
+      "art_460",
+      "art_461",
+      "art_462",
+      "art_463",
+      "art_464",
+      "art_465",
+      "art_466",
+      "art_467",
+      "art_468",
+      "art_469",
+      "art_470",
+      "art_471",
+      "art_471a",
+      "art_471b",
+      "art_471c",
+      "art_471d",
+      "art_471e"
+     ]
+    },
+    {
+     "title": "TÍTULO II DAS COMPRAS GOVERNAMENTAIS",
+     "node_id": "0305",
+     "start_index": 197,
+     "end_index": 198,
+     "nodes": [
+      {
+       "title": "a) declarar inapta a inscrição no CNPJ; ou",
+       "node_id": "0306",
+       "start_index": 197,
+       "end_index": 198,
+       "artigos": [
+        "art_471f",
+        "art_472",
+        "art_473"
+       ],
+       "ruido": true
+      }
+     ],
+     "artigos": [
+      "art_471f",
+      "art_472",
+      "art_473"
+     ]
+    },
+    {
+     "title": "TÍTULO III DISPOSIÇÕES TRANSITÓRIAS",
+     "node_id": "0307",
+     "start_index": 198,
+     "end_index": 210,
+     "nodes": [
+      {
+       "title": "TÍTULO III DISPOSIÇÕES TRANSITÓRIAS (intro)",
+       "start_index": 198,
+       "end_index": 199,
+       "node_id": "0308",
+       "artigos": [
+        "art_474"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO I DA AVALIAÇÃO QUINQUENAL",
+       "node_id": "0309",
+       "start_index": 199,
+       "end_index": 200,
+       "artigos": [
+        "art_475",
+        "art_476"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "CAPÍTULO II DA COMPENSAÇÃO DE EVENTUAL REDUÇÃO DO MONTANTEENTREGUE NOS TERMOS DO ART. 159, INCISOS I E II, DA CONSTITUIÇÃOFEDERAL EM RAZÃO DA SUBSTITUIÇÃO DO IPI PELO IMPOSTO SELETIVO",
+       "node_id": "0310",
+       "start_index": 200,
+       "end_index": 202,
+       "nodes": [
+        {
+         "title": "CAPÍTULO II DA COMPENSAÇÃO DE EVENTUAL REDUÇÃO DO MONTANTEENTREGUE NOS TERMOS DO ART. 159, INCISOS I E II, DA CONSTITUIÇÃOFEDERAL EM RAZÃO DA SUBSTITUIÇÃO DO IPI PELO IMPOSTO SELETIVO (intro)",
+         "start_index": 200,
+         "end_index": 200,
+         "node_id": "0311",
+         "artigos": [],
+         "ruido": false
+        },
+        {
+         "title": "FEDERAL EM RAZÃO DA SUBSTITUIÇÃO DO IPI PELO IMPOSTO SELETIVO",
+         "node_id": "0312",
+         "start_index": 201,
+         "end_index": 202,
+         "artigos": [
+          "art_477",
+          "art_478",
+          "art_479"
+         ],
+         "ruido": true
+        }
+       ],
+       "artigos": [
+        "art_477",
+        "art_478",
+        "art_479"
+       ]
+      },
+      {
+       "title": "CAPÍTULO III DO COMITÊ gESTOR DO ibs",
+       "node_id": "0313",
+       "start_index": 202,
+       "end_index": 206,
+       "nodes": [
+        {
+         "title": "Seção I Disposições Gerais",
+         "node_id": "0314",
+         "start_index": 202,
+         "end_index": 202,
+         "artigos": [
+          "art_480"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção II Do Conselho Superior do CGIBS",
+         "node_id": "0315",
+         "start_index": 202,
+         "end_index": 205,
+         "nodes": [
+          {
+           "title": "CAPÍTULO III DO COMITÊ gESTOR DO ibs",
+           "node_id": "0316",
+           "start_index": 202,
+           "end_index": 205,
+           "nodes": [
+            {
+             "title": "Seção II Do Conselho Superior do CGIBS",
+             "node_id": "0317",
+             "start_index": 202,
+             "end_index": 205,
+             "artigos": [
+              "art_481",
+              "art_482",
+              "art_482a"
+             ],
+             "ruido": false
+            }
+           ],
+           "artigos": [
+            "art_481",
+            "art_482",
+            "art_482a"
+           ]
+          }
+         ],
+         "artigos": [
+          "art_481",
+          "art_482",
+          "art_482a"
+         ]
+        },
+        {
+         "title": "Seção III Da Instalação do Conselho Superior",
+         "node_id": "0318",
+         "start_index": 205,
+         "end_index": 206,
+         "artigos": [
+          "art_483",
+          "art_484"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_480",
+        "art_481",
+        "art_482",
+        "art_482a",
+        "art_483",
+        "art_484"
+       ]
+      },
+      {
+       "title": "CAPÍTULO IV DO PERÍODO DE TRANSIÇÃO DAS OPERAÇÕES COM BENSIMÓVEiS",
+       "node_id": "0319",
+       "start_index": 206,
+       "end_index": 210,
+       "nodes": [
+        {
+         "title": "Seção I Das Operações Iniciadas antes de 1º de Janeiro de 2029",
+         "node_id": "0320",
+         "start_index": 206,
+         "end_index": 209,
+         "nodes": [
+          {
+           "title": "CAPÍTULO IV DO PERÍODO DE TRANSIÇÃO DAS OPERAÇÕES COM BENS IMÓVEiS",
+           "node_id": "0321",
+           "start_index": 206,
+           "end_index": 207,
+           "artigos": [],
+           "ruido": false
+          },
+          {
+           "title": "Subseção I Da Incorporação",
+           "node_id": "0322",
+           "start_index": 207,
+           "end_index": 207,
+           "artigos": [],
+           "ruido": false
+          },
+          {
+           "title": "Subseção II Do Parcelamento do Solo",
+           "node_id": "0323",
+           "start_index": 207,
+           "end_index": 208,
+           "nodes": [
+            {
+             "title": "Subseção I Da Incorporação",
+             "node_id": "0324",
+             "start_index": 207,
+             "end_index": 208,
+             "artigos": [
+              "art_485",
+              "art_486"
+             ],
+             "ruido": false
+            }
+           ],
+           "artigos": [
+            "art_485",
+            "art_486"
+           ]
+          },
+          {
+           "title": "Subseção III Da Locação, da Cessão Onerosa e do Arrendamento do Bem Imóvel",
+           "node_id": "0325",
+           "start_index": 208,
+           "end_index": 209,
+           "artigos": [
+            "art_487"
+           ],
+           "ruido": false
+          }
+         ],
+         "artigos": [
+          "art_485",
+          "art_486",
+          "art_487"
+         ]
+        },
+        {
+         "title": "Seção II Das Operações Iniciadas a partir de 1º de Janeiro de 2029",
+         "node_id": "0326",
+         "start_index": 209,
+         "end_index": 210,
+         "artigos": [
+          "art_488"
+         ],
+         "ruido": false
+        },
+        {
+         "title": "Seção III Disposições Finais",
+         "node_id": "0327",
+         "start_index": 210,
+         "end_index": 210,
+         "artigos": [
+          "art_489",
+          "art_490"
+         ],
+         "ruido": false
+        }
+       ],
+       "artigos": [
+        "art_485",
+        "art_486",
+        "art_487",
+        "art_488",
+        "art_489",
+        "art_490"
+       ]
+      }
+     ],
+     "artigos": [
+      "art_474",
+      "art_475",
+      "art_476",
+      "art_477",
+      "art_478",
+      "art_479",
+      "art_480",
+      "art_481",
+      "art_482",
+      "art_482a",
+      "art_483",
+      "art_484",
+      "art_485",
+      "art_486",
+      "art_487",
+      "art_488",
+      "art_489",
+      "art_490"
+     ]
+    },
+    {
+     "title": "TÍTULO IV DISPOSIÇÕES FINAIS",
+     "node_id": "0328",
+     "start_index": 210,
+     "end_index": 241,
+     "nodes": [
+      {
+       "title": "TÍTULO IV DISPOSIÇÕES FINAIS (intro)",
+       "start_index": 210,
+       "end_index": 221,
+       "node_id": "0329",
+       "artigos": [
+        "art_491",
+        "art_492",
+        "art_493",
+        "art_493a",
+        "art_494",
+        "art_495",
+        "art_496",
+        "art_497",
+        "art_498",
+        "art_499",
+        "art_500",
+        "art_501",
+        "art_502",
+        "art_503",
+        "art_504",
+        "art_505",
+        "art_506",
+        "art_507",
+        "art_508",
+        "art_509",
+        "art_510",
+        "art_511",
+        "art_512",
+        "art_513",
+        "art_514",
+        "art_515",
+        "art_516",
+        "art_517"
+       ],
+       "ruido": false
+      },
+      {
+       "title": "c) a operação com bens materiais desacobertada de documento fiscal; e",
+       "node_id": "0330",
+       "start_index": 221,
+       "end_index": 234,
+       "artigos": [
+        "art_518",
+        "art_519",
+        "art_520",
+        "art_521",
+        "art_522",
+        "art_523",
+        "art_524",
+        "art_525",
+        "art_526",
+        "art_527",
+        "art_528",
+        "art_529",
+        "art_530",
+        "art_531",
+        "art_532",
+        "art_533",
+        "art_534",
+        "art_535",
+        "art_536",
+        "art_537",
+        "art_538",
+        "art_539",
+        "art_540",
+        "art_541",
+        "art_542"
+       ],
+       "ruido": true
+      },
+      {
+       "title": "d) os incisos I e II do caput do art. 8º; e",
+       "node_id": "0331",
+       "start_index": 234,
+       "end_index": 234,
+       "artigos": [],
+       "ruido": true
+      },
+      {
+       "title": "f) os arts. 42 e 43; e",
+       "node_id": "0332",
+       "start_index": 234,
+       "end_index": 235,
+       "artigos": [],
+       "ruido": true
+      },
+      {
+       "title": "g) os arts. 57 e 58; e",
+       "node_id": "0333",
+       "start_index": 235,
+       "end_index": 241,
+       "artigos": [
+        "art_543",
+        "art_544"
+       ],
+       "ruido": true
+      }
+     ],
+     "artigos": [
+      "art_491",
+      "art_492",
+      "art_493",
+      "art_493a",
+      "art_494",
+      "art_495",
+      "art_496",
+      "art_497",
+      "art_498",
+      "art_499",
+      "art_500",
+      "art_501",
+      "art_502",
+      "art_503",
+      "art_504",
+      "art_505",
+      "art_506",
+      "art_507",
+      "art_508",
+      "art_509",
+      "art_510",
+      "art_511",
+      "art_512",
+      "art_513",
+      "art_514",
+      "art_515",
+      "art_516",
+      "art_517",
+      "art_518",
+      "art_519",
+      "art_520",
+      "art_521",
+      "art_522",
+      "art_523",
+      "art_524",
+      "art_525",
+      "art_526",
+      "art_527",
+      "art_528",
+      "art_529",
+      "art_530",
+      "art_531",
+      "art_532",
+      "art_533",
+      "art_534",
+      "art_535",
+      "art_536",
+      "art_537",
+      "art_538",
+      "art_539",
+      "art_540",
+      "art_541",
+      "art_542",
+      "art_543",
+      "art_544"
+     ]
+    }
+   ],
+   "artigos": [
+    "art_439",
+    "art_440",
+    "art_441",
+    "art_442",
+    "art_443",
+    "art_444",
+    "art_445",
+    "art_446",
+    "art_447",
+    "art_448",
+    "art_449",
+    "art_450",
+    "art_451",
+    "art_452",
+    "art_453",
+    "art_454",
+    "art_455",
+    "art_456",
+    "art_457",
+    "art_458",
+    "art_459",
+    "art_460",
+    "art_461",
+    "art_462",
+    "art_463",
+    "art_464",
+    "art_465",
+    "art_466",
+    "art_467",
+    "art_468",
+    "art_469",
+    "art_470",
+    "art_471",
+    "art_471a",
+    "art_471b",
+    "art_471c",
+    "art_471d",
+    "art_471e",
+    "art_471f",
+    "art_472",
+    "art_473",
+    "art_474",
+    "art_475",
+    "art_476",
+    "art_477",
+    "art_478",
+    "art_479",
+    "art_480",
+    "art_481",
+    "art_482",
+    "art_482a",
+    "art_483",
+    "art_484",
+    "art_485",
+    "art_486",
+    "art_487",
+    "art_488",
+    "art_489",
+    "art_490",
+    "art_491",
+    "art_492",
+    "art_493",
+    "art_493a",
+    "art_494",
+    "art_495",
+    "art_496",
+    "art_497",
+    "art_498",
+    "art_499",
+    "art_500",
+    "art_501",
+    "art_502",
+    "art_503",
+    "art_504",
+    "art_505",
+    "art_506",
+    "art_507",
+    "art_508",
+    "art_509",
+    "art_510",
+    "art_511",
+    "art_512",
+    "art_513",
+    "art_514",
+    "art_515",
+    "art_516",
+    "art_517",
+    "art_518",
+    "art_519",
+    "art_520",
+    "art_521",
+    "art_522",
+    "art_523",
+    "art_524",
+    "art_525",
+    "art_526",
+    "art_527",
+    "art_528",
+    "art_529",
+    "art_530",
+    "art_531",
+    "art_532",
+    "art_533",
+    "art_534",
+    "art_535",
+    "art_536",
+    "art_537",
+    "art_538",
+    "art_539",
+    "art_540",
+    "art_541",
+    "art_542",
+    "art_543",
+    "art_544"
+   ]
+  },
+  {
+   "title": "ANEXO I",
+   "node_id": "0334",
+   "start_index": 241,
+   "end_index": 243,
+   "artigos": [
+    "anexo_i"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO II",
+   "node_id": "0335",
+   "start_index": 243,
+   "end_index": 244,
+   "artigos": [
+    "anexo_ii"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO III",
+   "node_id": "0336",
+   "start_index": 244,
+   "end_index": 247,
+   "artigos": [
+    "anexo_iii"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO IV",
+   "node_id": "0337",
+   "start_index": 247,
+   "end_index": 257,
+   "artigos": [
+    "anexo_iv"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO V",
+   "node_id": "0338",
+   "start_index": 257,
+   "end_index": 260,
+   "artigos": [
+    "anexo_v"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO VI",
+   "node_id": "0339",
+   "start_index": 260,
+   "end_index": 267,
+   "artigos": [
+    "anexo_vi"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO VII",
+   "node_id": "0340",
+   "start_index": 267,
+   "end_index": 269,
+   "artigos": [
+    "anexo_vii"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO VIII",
+   "node_id": "0341",
+   "start_index": 269,
+   "end_index": 269,
+   "artigos": [
+    "anexo_viii"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO IX",
+   "node_id": "0342",
+   "start_index": 269,
+   "end_index": 275,
+   "nodes": [
+    {
+     "title": "DESCRIÇÃO",
+     "node_id": "0343",
+     "start_index": 269,
+     "end_index": 275,
+     "artigos": [
+      "anexo_ix"
+     ],
+     "ruido": true
+    }
+   ],
+   "artigos": [
+    "anexo_ix"
+   ]
+  },
+  {
+   "title": "ANEXO X",
+   "node_id": "0344",
+   "start_index": 275,
+   "end_index": 281,
+   "artigos": [
+    "anexo_x",
+    "anexo_xi"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO XI",
+   "node_id": "0345",
+   "start_index": 281,
+   "end_index": 285,
+   "nodes": [
+    {
+     "title": "DESCRIÇÃO",
+     "node_id": "0346",
+     "start_index": 281,
+     "end_index": 285,
+     "artigos": [],
+     "ruido": true
+    }
+   ],
+   "artigos": []
+  },
+  {
+   "title": "ANEXO XII",
+   "node_id": "0347",
+   "start_index": 285,
+   "end_index": 287,
+   "artigos": [
+    "anexo_xii"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO XIII",
+   "node_id": "0348",
+   "start_index": 287,
+   "end_index": 288,
+   "artigos": [
+    "anexo_xiii"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO XV",
+   "node_id": "0349",
+   "start_index": 288,
+   "end_index": 289,
+   "artigos": [
+    "anexo_xv"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO XVI",
+   "node_id": "0350",
+   "start_index": 289,
+   "end_index": 292,
+   "artigos": [
+    "anexo_xvi"
+   ],
+   "ruido": false
+  },
+  {
+   "title": "ANEXO XVII",
+   "node_id": "0351",
+   "start_index": 292,
+   "end_index": 292,
+   "artigos": [
+    "anexo_xvii"
+   ],
+   "ruido": false
+  }
+ ],
+ "has_abstract_or_references_section": false,
+ "toc_source": "bookmarks"
+}

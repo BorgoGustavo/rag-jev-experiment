@@ -1,0 +1,651 @@
+{
+ "_nota": "Avaliação manual, sem API, comparando a resposta com resposta_esperada e trechos_evidencia. 'Não encontrei base' conta como incorreta. Escala: correta | parcial | incorreta.",
+ "A": {
+  "q01": [
+   "correta",
+   "Mensal, art. 43."
+  ],
+  "q02": [
+   "correta",
+   "5 anos do 1º dia do período subsequente, art. 54; extras corretos."
+  ],
+  "q03": [
+   "incorreta",
+   "Abstenção; o chunk do art. 29 não foi recuperado."
+  ],
+  "q04": [
+   "correta",
+   "Três condições cumulativas do art. 94, II."
+  ],
+  "q05": [
+   "correta",
+   "100% CBS e 20% IBS, art. 118, I."
+  ],
+  "q06": [
+   "incorreta",
+   "Abstenção; art. 127 não recuperado."
+  ],
+  "q07": [
+   "correta",
+   "Isento, art. 157, com a condição de concessão/permissão."
+  ],
+  "q08": [
+   "correta",
+   "50% e 70%, art. 261."
+  ],
+  "q09": [
+   "correta",
+   "40%, art. 275."
+  ],
+  "q10": [
+   "correta",
+   "Zero, com as condições do § 1º."
+  ],
+  "q11": [
+   "correta",
+   "R$ 200, IPCA, art. 341-C."
+  ],
+  "q12": [
+   "correta",
+   "0,9%, art. 346."
+  ],
+  "q13": [
+   "correta",
+   "Vedação total de crédito, art. 410."
+  ],
+  "q14": [
+   "correta",
+   "Cinco áreas listadas corretamente."
+  ],
+  "q15": [
+   "correta",
+   "R$ 3,8 bi, 20 parcelas semestrais a partir de jun/2029, Selic."
+  ],
+  "q16": [
+   "correta",
+   "R$ 3,6 mi e atualização pelo IPCA (arts. 164 e 167)."
+  ],
+  "q17": [
+   "correta",
+   "Art. 125 e item 1 do Anexo I."
+  ],
+  "q18": [
+   "incorreta",
+   "Abstenção; Anexo XV não recuperado."
+  ],
+  "q19": [
+   "incorreta",
+   "Abstenção; reconhece a remissão à hotelaria mas não chega aos 40%."
+  ],
+  "q20": [
+   "parcial",
+   "Regra geral correta e exceção do art. 238, p.u., citada, mas não explica que a exceção é o plano por acordo coletivo."
+  ],
+  "q21": [
+   "parcial",
+   "Saldo a recolher correto; sobre o prazo diz que os trechos não fixam, quando o art. 29 fala em 'até a data de vencimento'."
+  ],
+  "q22": [
+   "correta",
+   "75% e redução de 50%; omite o 60% do PNCT, que é detalhe."
+  ],
+  "q23": [
+   "correta",
+   "Redutor uniforme nos termos do art. 370, com o mecanismo de cálculo."
+  ],
+  "q24": [
+   "parcial",
+   "Multa e juros do art. 29, § 2º, como responsável, sem informar 0,33%/dia e Selic."
+  ],
+  "q25": [
+   "correta",
+   "Habilitação do art. 442 + regime regular/Simples; recuperação falhou só no art_442."
+  ],
+  "q26": [
+   "correta",
+   "54 membros e 120 dias."
+  ],
+  "q27": [
+   "incorreta",
+   "Abstenção; art. 544 não recuperado."
+  ],
+  "q28": [
+   "correta",
+   "Antecipação por parcela e definitivo no fornecimento, art. 10, § 4º."
+  ],
+  "q29": [
+   "incorreta",
+   "Abstenção; tinha o § 3º mas não o inciso III do § 1º; conclusão errada ('não é possível afirmar')."
+  ],
+  "q30": [
+   "incorreta",
+   "Abstenção; art. 57 não recuperado."
+  ],
+  "q31": [
+   "incorreta",
+   "Abstenção; art. 55 não recuperado."
+  ],
+  "q32": [
+   "correta",
+   "Sim, habitualidade, art. 21, I, e inscrição."
+  ],
+  "q33": [
+   "correta",
+   "Não contribuinte abaixo de R$ 3,6 mi, com ressalvas corretas."
+  ],
+  "q34": [
+   "correta",
+   "Cerveja fora do regime, art. 273, § 2º, III."
+  ],
+  "q35": [
+   "correta",
+   "Sem procedimento fiscal até a ciência da resposta, art. 323-C."
+  ],
+  "q36": [
+   "correta",
+   "40% (50% PNCT), art. 341-H, II."
+  ],
+  "q37": [
+   "correta",
+   "Créditos permanecem válidos, art. 378."
+  ],
+  "q38": [
+   "incorreta",
+   "Abstenção; art. 409 não recuperado."
+  ],
+  "q39": [
+   "correta",
+   "Opção de 3,65% da receita bruta, art. 487."
+  ],
+  "q40": [
+   "correta",
+   "Crédito presumido do art. 169 com as condições."
+  ]
+ },
+ "C": {
+  "q01": [
+   "correta",
+   "Mensal, art. 43."
+  ],
+  "q02": [
+   "correta",
+   "5 anos, art. 54."
+  ],
+  "q03": [
+   "incorreta",
+   "Abstenção; folha do art. 29 não lida."
+  ],
+  "q04": [
+   "correta",
+   "Três condições do art. 94, II."
+  ],
+  "q05": [
+   "correta",
+   "100% e 20%, art. 118."
+  ],
+  "q06": [
+   "correta",
+   "30%, art. 127, II e VII."
+  ],
+  "q07": [
+   "correta",
+   "Isento, art. 157."
+  ],
+  "q08": [
+   "incorreta",
+   "Abstenção; art. 261 não lido."
+  ],
+  "q09": [
+   "correta",
+   "40%, art. 275."
+  ],
+  "q10": [
+   "correta",
+   "Zero com condições, art. 308."
+  ],
+  "q11": [
+   "correta",
+   "R$ 200 e IPCA."
+  ],
+  "q12": [
+   "incorreta",
+   "Abstenção; art. 346 não lido (chegou a citar 6% do art. 341-G como não sendo alíquota)."
+  ],
+  "q13": [
+   "correta",
+   "Art. 410."
+  ],
+  "q14": [
+   "correta",
+   "Cinco áreas."
+  ],
+  "q15": [
+   "correta",
+   "R$ 3,8 bi, 20 parcelas, Selic."
+  ],
+  "q16": [
+   "correta",
+   "R$ 3,6 mi e IPCA."
+  ],
+  "q17": [
+   "correta",
+   "Art. 125 e item 1 do Anexo I."
+  ],
+  "q18": [
+   "parcial",
+   "Anexo XV e alíquota zero corretos, mas sem o art. 148 (leu só anexos)."
+  ],
+  "q19": [
+   "incorreta",
+   "Abstenção; não chegou à hotelaria."
+  ],
+  "q20": [
+   "parcial",
+   "Regra e exceção do art. 238, p.u., sem explicitar o acordo coletivo."
+  ],
+  "q21": [
+   "correta",
+   "Até o vencimento (art. 29) e saldo a recolher (art. 45)."
+  ],
+  "q22": [
+   "correta",
+   "75%, 50% e 60% no PNCT."
+  ],
+  "q23": [
+   "correta",
+   "Redutor do art. 370 e destinação do art. 473."
+  ],
+  "q24": [
+   "parcial",
+   "Multa e juros do art. 29, § 2º, sem o percentual."
+  ],
+  "q25": [
+   "correta",
+   "Habilitação (Suframa/projeto) + regime regular ou Simples."
+  ],
+  "q26": [
+   "correta",
+   "54 membros e 120 dias."
+  ],
+  "q27": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q28": [
+   "correta",
+   "Antecipação e definitivo, art. 10."
+  ],
+  "q29": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q30": [
+   "incorreta",
+   "Abstenção; leu regimes diferenciados e IS, não o art. 57."
+  ],
+  "q31": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q32": [
+   "parcial",
+   "Diz 'sim, mas sem conclusão definitiva'; fundamenta no art. 4º e no nanoempreendedor, sem o art. 21 (habitualidade)."
+  ],
+  "q33": [
+   "correta",
+   "Não contribuinte, com ressalvas."
+  ],
+  "q34": [
+   "incorreta",
+   "Abstenção; leu só o IS, não o art. 273."
+  ],
+  "q35": [
+   "correta",
+   "Art. 323-C, I, com ressalvas."
+  ],
+  "q36": [
+   "correta",
+   "40% (50% PNCT)."
+  ],
+  "q37": [
+   "correta",
+   "Art. 378."
+  ],
+  "q38": [
+   "correta",
+   "'Provavelmente sim', bebidas açucaradas no art. 409, § 1º, V."
+  ],
+  "q39": [
+   "incorreta",
+   "Abstenção; art. 487 não lido."
+  ],
+  "q40": [
+   "correta",
+   "Crédito presumido do art. 169."
+  ]
+ },
+ "C_md": {
+  "q01": [
+   "correta",
+   "Mensal, art. 43."
+  ],
+  "q02": [
+   "correta",
+   "5 anos, art. 54."
+  ],
+  "q03": [
+   "incorreta",
+   "Abstenção; só remissões ao art. 29."
+  ],
+  "q04": [
+   "correta",
+   "Art. 94, II."
+  ],
+  "q05": [
+   "correta",
+   "Art. 118, I."
+  ],
+  "q06": [
+   "correta",
+   "30%, art. 127."
+  ],
+  "q07": [
+   "incorreta",
+   "Abstenção; leu incidência e imunidades, não o art. 157."
+  ],
+  "q08": [
+   "correta",
+   "50% e 70%, art. 261."
+  ],
+  "q09": [
+   "correta",
+   "40%, art. 275."
+  ],
+  "q10": [
+   "incorreta",
+   "Abstenção; leu o art. 129 (Anexo II), não o art. 308."
+  ],
+  "q11": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q12": [
+   "correta",
+   "0,9%, art. 346."
+  ],
+  "q13": [
+   "correta",
+   "Art. 410."
+  ],
+  "q14": [
+   "correta",
+   "Cinco áreas."
+  ],
+  "q15": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q16": [
+   "correta",
+   "R$ 3,6 mi e IPCA."
+  ],
+  "q17": [
+   "parcial",
+   "Arroz no Anexo I, item 1, mas sem o art. 125 (leu só o anexo)."
+  ],
+  "q18": [
+   "parcial",
+   "Anexo XV e alíquota zero, sem o art. 148."
+  ],
+  "q19": [
+   "incorreta",
+   "Abstenção; viu o art. 253 mas não a hotelaria."
+  ],
+  "q20": [
+   "parcial",
+   "Responde 'sim, em regra' pela exceção do art. 57 (acordo coletivo), sem a regra geral de vedação do art. 238; inverte a ênfase."
+  ],
+  "q21": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q22": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q23": [
+   "incorreta",
+   "Responde com reduções de 60% dos arts. 140 e 142, que não são o redutor das compras governamentais."
+  ],
+  "q24": [
+   "parcial",
+   "Multa e juros do art. 29, § 2º, sem percentual."
+  ],
+  "q25": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q26": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q27": [
+   "incorreta",
+   "Abstenção."
+  ],
+  "q28": [
+   "correta",
+   "Antecipação e definitivo, art. 10."
+  ],
+  "q29": [
+   "correta",
+   "Desconto sob condição integra a base, art. 12, § 1º, III e § 3º."
+  ],
+  "q30": [
+   "correta",
+   "Uso pessoal, art. 57, II, 'b', § 1º, II e § 5º."
+  ],
+  "q31": [
+   "correta",
+   "Vedação do art. 55, exceção da sucessão."
+  ],
+  "q32": [
+   "correta",
+   "Habitualidade, art. 21, I, e inscrição."
+  ],
+  "q33": [
+   "correta",
+   "Não contribuinte, com ressalvas."
+  ],
+  "q34": [
+   "incorreta",
+   "Abstenção; leu alimentos, não o art. 273."
+  ],
+  "q35": [
+   "correta",
+   "Art. 323-C, I."
+  ],
+  "q36": [
+   "correta",
+   "40% (50% PNCT)."
+  ],
+  "q37": [
+   "correta",
+   "Art. 378."
+  ],
+  "q38": [
+   "correta",
+   "Bebidas açucaradas, art. 409, § 1º, V, e NCM do Anexo XVII."
+  ],
+  "q39": [
+   "incorreta",
+   "Abstenção; leu arts. 251-254, não o art. 487."
+  ],
+  "q40": [
+   "incorreta",
+   "Abstenção; leu o art. 47, não o art. 169."
+  ]
+ },
+ "B": {
+  "q01": [
+   "correta",
+   "Mensal, art. 43."
+  ],
+  "q02": [
+   "correta",
+   "5 anos, art. 54."
+  ],
+  "q03": [
+   "correta",
+   "0,33%/dia, limite 20%, art. 29."
+  ],
+  "q04": [
+   "correta",
+   "Art. 94, II."
+  ],
+  "q05": [
+   "correta",
+   "Art. 118, I."
+  ],
+  "q06": [
+   "correta",
+   "30%, art. 127."
+  ],
+  "q07": [
+   "correta",
+   "Isento, art. 157."
+  ],
+  "q08": [
+   "correta",
+   "50% e 70%, art. 261."
+  ],
+  "q09": [
+   "correta",
+   "40%, art. 275."
+  ],
+  "q10": [
+   "correta",
+   "Zero com condições, art. 308."
+  ],
+  "q11": [
+   "correta",
+   "R$ 200 e IPCA."
+  ],
+  "q12": [
+   "incorreta",
+   "Abstenção; navegação perdeu o art. 346 (passo com JSON truncado pelo max_tokens)."
+  ],
+  "q13": [
+   "correta",
+   "Art. 410."
+  ],
+  "q14": [
+   "correta",
+   "Cinco áreas."
+  ],
+  "q15": [
+   "correta",
+   "R$ 3,8 bi, 20 parcelas, Selic."
+  ],
+  "q16": [
+   "correta",
+   "R$ 3,6 mi e IPCA."
+  ],
+  "q17": [
+   "correta",
+   "Art. 125 e Anexo I, item 1."
+  ],
+  "q18": [
+   "parcial",
+   "Anexo XV e alíquota zero, sem o art. 148 (leu só anexos)."
+  ],
+  "q19": [
+   "incorreta",
+   "Abstenção causada por bug: 3º passo truncado em 256 tokens de saída, lido como 'voltar'; nenhuma folha lida."
+  ],
+  "q20": [
+   "parcial",
+   "Regra e exceção do art. 238, p.u., sem explicitar o acordo coletivo."
+  ],
+  "q21": [
+   "correta",
+   "Até o vencimento (art. 29) e saldo a recolher (art. 45)."
+  ],
+  "q22": [
+   "correta",
+   "75%, 50%, 60% no PNCT."
+  ],
+  "q23": [
+   "correta",
+   "Redutor do art. 370 e destinação do art. 473."
+  ],
+  "q24": [
+   "parcial",
+   "Multa e juros do art. 29, § 2º, sem o percentual."
+  ],
+  "q25": [
+   "correta",
+   "Habilitação + regime regular/Simples."
+  ],
+  "q26": [
+   "correta",
+   "54 membros e 120 dias."
+  ],
+  "q27": [
+   "correta",
+   "1º/01/2027, art. 544, III."
+  ],
+  "q28": [
+   "correta",
+   "Antecipação e definitivo, art. 10, § 4º."
+  ],
+  "q29": [
+   "correta",
+   "Desconto sob condição integra a base, art. 12."
+  ],
+  "q30": [
+   "correta",
+   "Uso pessoal, art. 57, crédito vedado."
+  ],
+  "q31": [
+   "correta",
+   "Vedação do art. 55, exceção da sucessão."
+  ],
+  "q32": [
+   "correta",
+   "Habitualidade, art. 21, I, e inscrição."
+  ],
+  "q33": [
+   "correta",
+   "Não contribuinte, com ressalvas."
+  ],
+  "q34": [
+   "correta",
+   "Cerveja fora do regime, art. 273, § 2º, III."
+  ],
+  "q35": [
+   "correta",
+   "Art. 323-C, I."
+  ],
+  "q36": [
+   "correta",
+   "40% (50% PNCT)."
+  ],
+  "q37": [
+   "correta",
+   "Art. 378."
+  ],
+  "q38": [
+   "correta",
+   "Bebidas açucaradas, art. 409 e Anexo XVII."
+  ],
+  "q39": [
+   "correta",
+   "3,65% da receita bruta, art. 487."
+  ],
+  "q40": [
+   "correta",
+   "Crédito presumido do art. 169."
+  ]
+ }
+}
